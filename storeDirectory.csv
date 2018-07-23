@@ -1,0 +1,882 @@
+StoreID,StreetAddress,address1,address2,city,stateAddress,postalCode,type,chainCode,latitude,longitude
+8307,500 Nj-38,500 Nj-38,,Cherry Hill,NJ,08034,1,TRU,39.9377434,-75.0462602
+8306,409 Almonesson Road,409 Almonesson Road,,Deptford,NJ,08096,1,TRU,39.8309871,-75.1026216
+8305,3401 Aramingo Avenue,3401 Aramingo Avenue,,Philadelphia,PA,19134,1,TRU,39.9912159,-75.100288
+8304,5521 Leesburg Pike,5521 Leesburg Pike,,Baileys Crossroads,VA,22041,1,TRU,38.8472068,-77.1243918
+8303,250 Mall Blvd,250 Mall Blvd,,King Of Prussia,PA,19406,1,TRU,40.0922378,-75.3900202
+8302,2 Airport Square,2 Airport Square,,North Wales,PA,19454,1,TRU,40.2395085,-75.2404249
+5657,4635 Chino Hills Pkwy,4635 Chino Hills Pkwy,,Chino Hills,CA,91709,1,TRU,33.9804232,-117.7033066
+5654,1445 Montebello Blvd.,1445 Montebello Blvd.,,Montebello,CA,90640,1,TRU,34.0343241,-118.0942927
+8309,2703-2817 South Third S,2703-2817 South Third S,,Philadelphia,PA,19148,1,TRU,39.9131295,-75.1528837
+8308,2045 Cottman Ave,2045 Cottman Ave,,Philadelphia,PA,19149,1,TRU,40.0509885,-75.0648181
+5821,202 Walnut Street,202 Walnut Street,,Redwood City,CA,94063,1,TRU,37.493111,-122.226136
+5820,370 Northridge Circle Northridge Mall,370 Northridge Circle,Northridge Mall,Salinas,CA,93906,1,TRU,36.7169,-121.658187
+8864,6380 North Point Pkwy,6380 North Point Pkwy,,Alpharetta,GA,30022,1,BRU,34.0443899,-84.2914536
+8865,7350 W. Commercial Blvd,7350 W. Commercial Blvd,,Lauderhill,FL,33319,1,BRU,26.1926423,-80.2491694
+5825,4505 Century Blvd.,4505 Century Blvd.,,Pittsburg,CA,94565,1,TRU,38.0074672,-121.8375431
+5824,1919 East 20th St.,1919 East 20th St.,,Chico,CA,95928,1,TRU,39.725759,-121.8054834
+8860,5731 Nolensville Pike,5731 Nolensville Pike,,Nashville,TN,37211,1,BRU,36.0481352,-86.7150511
+8861,11930 Pines Blvd,11930 Pines Blvd,,Pembroke Pines,FL,33026,1,BRU,26.0060306,-80.3092838
+9285,5660 Touhy Ave,5660 Touhy Ave,,Niles,IL,60714,1,BRU,42.0148278,-87.7698566
+9284,26520 Lorain Road,26520 Lorain Road,,North Olmsted,OH,44070,1,BRU,41.4204767,-81.9162855
+9287,1705 West Newman Rd,1705 West Newman Rd,,Okemos,MI,48864,1,TRU,42.7223377,-84.4110349
+9281,2335 Market Place Drive,2335 Market Place Drive,,Rochester,NY,14623,1,BRU,43.0786173,-77.6326271
+9280,4936 Baldwin Road,4936 Baldwin Road,,Orion,MI,48359,1,BRU,42.707229,-83.3110622
+8868,2139 North Highland,2139 North Highland,,Jackson,TN,38305,1,TRU,35.6614037,-88.8300199
+9282,1569 Niagara Falls Blvd,1569 Niagara Falls Blvd,,Buffalo,NY,14228,1,BRU,42.998153,-78.8197982
+7517,Nys I-480 & Rt. 31 Gr Northern Mall,Nys I-480 & Rt. 31,Gr Northern Mall,Clay,NY,13041,1,TRU,43.1872358,-76.2241231
+7515,5 Dayton Road,5 Dayton Road,,Waterford,CT,06385,1,TRU,41.3723639,-72.1341605
+7514,85 Gosling Road,85 Gosling Road,,Newington,NH,03801,1,TRU,43.0941501,-70.7957126
+7513,303 Maine Mall Road,303 Maine Mall Road,,South Portland,ME,04106,1,TRU,43.6367663,-70.33787
+7512,86 Swansea Mall Dr.,86 Swansea Mall Dr.,,Swansea,MA,02777,1,TRU,41.7513812,-71.2156509
+7511,2 Keller Street,2 Keller Street,,Manchester,NH,03103,1,TRU,42.9537103,-71.4429352
+7510,1471 New Britain Ave,1471 New Britain Ave,,West Hartford,CT,06110,1,TRU,41.7239536,-72.7571704
+8905,9959 Colerain Ave,9959 Colerain Ave,,Cincinnati,OH,45251,1,TRU,39.2535604,-84.6007288
+7006,5910 Eastex Freeway,5910 Eastex Freeway,,Beaumont,TX,77708,1,TRU,30.1284952,-94.157107
+8903,7960 Connector Drive,7960 Connector Drive,,Florence,KY,41042,1,TRU,38.9921086,-84.6542854
+8902,8250 Castleton Corner,8250 Castleton Corner,,Indianapolis,IN,46250,1,TRU,39.906516,-86.0706809
+5841,1425 Shaw Ave,1425 Shaw Ave,,Clovis,CA,93611,1,TRU,36.8098714,-119.6900566
+6063,486 Randall Rd,486 Randall Rd,,South Elgin,IL,60177,1,TRU,41.978083,-88.3437148
+7044,137 Northshore Blvd.,137 Northshore Blvd.,,Slidell,LA,70460,1,TRU,30.3047937,-89.8272332
+7047,9333 Research Blvd Blg A. Suite 200,9333 Research Blvd,Blg A. Suite 200,Austin,TX,78759,1,TRU,30.3840236,-97.7399324
+7046,16618 Sw Freeway,16618 Sw Freeway,,Sugar Land,TX,77478,1,TRU,29.5934603,-95.6330167
+7040,4600 Hardy Street,4600 Hardy Street,,Hattiesburg,MS,39402,1,TRU,31.3222292,-89.3586595
+7043,3405 Gerstner Memorial,3405 Gerstner Memorial,,Lake Charles,LA,70607,1,TRU,30.1960538,-93.1791641
+6304,445 Us Highway 46,445 Us Highway 46,,Totowa,NJ,07512,1,TRU,40.8946747,-74.2337337
+6307,1701-45 Us Highway 22,1701-45 Us Highway 22,,Watchung,NJ,07069,1,TRU,40.6512504,-74.4086326
+6794,100 Citadel Dr. Ste 313 The Citadel,100 Citadel Dr. Ste 313,The Citadel,City Of Commerce,CA,90040,1,TRU,34.006156,-118.1516239
+6306,250 East Route 4,250 East Route 4,,Paramus,NJ,07652,1,TRU,40.9143512,-74.0515619
+6041,200 E. Kimberly Road,200 E. Kimberly Road,,Davenport,IA,52806,1,TRU,41.5611385,-90.5695401
+6068,3250 South Linden,3250 South Linden,,Flint,MI,48507,1,TRU,42.9807533,-83.7733568
+6651,152 The Arches Circle Tanger Outlets,152 The Arches Circle,Tanger Outlets,Deer Park,NY,11729,1,TRU,40.7629048,-73.3051374
+6650,801 Tanger Mall Drive Tanger Outlets Riverhea,801 Tanger Mall Drive,Tanger Outlets Riverhea,Riverhead,NY,11901,1,TRU,40.9195219,-72.7170047
+5857,5461 Lone Tree Way,5461 Lone Tree Way,,Brentwood,CA,94513,1,BRU,37.9613132,-121.7496294
+5858,1930 N. Davis Rd.,1930 N. Davis Rd.,,Salinas,CA,93907,1,BRU,36.7191652,-121.6677482
+6385,300 Quaker Lane,300 Quaker Lane,,Warwick,RI,02886,1,BRU,41.6895823,-71.4988722
+6384,300 Andover Street,300 Andover Street,,Peabody,MA,01960,1,BRU,42.5494168,-70.9544974
+6387,600 Lehigh Valley Mall,600 Lehigh Valley Mall,,Whitehall,PA,18052,1,BRU,40.6339417,-75.476982
+6386,545 Highway 17 South,545 Highway 17 South,,Paramus,NJ,07652,1,BRU,40.9577093,-74.0757081
+6380,5700 Leesburg Pike,5700 Leesburg Pike,,Falls Church,VA,22041,1,BRU,38.8500714,-77.1263004
+6383,450 Grossman Drive,450 Grossman Drive,,Braintree,MA,02184,1,BRU,42.2156064,-70.9993708
+6382,1280 Us Highway 22 St. James,1280 Us Highway 22,St. James,Phillipsburg,NJ,08865,1,TRU,40.678024,-75.145332
+6389,139-19 20th Avenue,139-19 20th Avenue,,College Point,NY,11356,1,BRU,40.7823546,-73.8284765
+6388,1255 So. Washington St,1255 So. Washington St,,North Attleboro,MA,02760,1,BRU,41.938534,-71.3519366
+5818,1082 Blossom Hill Road,1082 Blossom Hill Road,,San Jose,CA,95123,1,TRU,37.2497447,-121.8724367
+5670,4835 East Ray Road,4835 East Ray Road,,Phoenix,AZ,85044,1,BRU,33.3193317,-111.9796026
+8738,2800 S.w. College Rd.,2800 S.w. College Rd.,,Ocala,FL,34474,1,TRU,29.1634916,-82.1695628
+8736,3550 N. Federal Highway,3550 N. Federal Highway,,Jensen Beach,FL,34957,1,TRU,27.2464096,-80.2736318
+8737,6233 Tacoma Drive,6233 Tacoma Drive,,Port Richey,FL,34668,1,TRU,28.2977625,-82.7115763
+8734,3770 Us Hwy 98 North,3770 Us Hwy 98 North,,Lakeland,FL,33809,1,TRU,28.0908513,-81.9748483
+8735,1900 Tyrone Blvd.,1900 Tyrone Blvd.,,Saint Petersburg,FL,33710,1,TRU,27.7881423,-82.7243159
+8732,1972 Wells Rd.,1972 Wells Rd.,,Orange Park,FL,32073,1,TRU,30.1849961,-81.7410221
+8733,6711 W. Newberry Rd,6711 W. Newberry Rd,,Gainesville,FL,32605,1,TRU,29.6569384,-82.4144448
+8730,1625 Apalachee Parkway,1625 Apalachee Parkway,,Tallahassee,FL,32301,1,TRU,30.4326682,-84.2529128
+8731,512 Cortez Rd. West,512 Cortez Rd. West,,Bradenton,FL,34207,1,TRU,27.4637737,-82.5678446
+9528,1150 S. Ironton,1150 S. Ironton,,Aurora,CO,80012-7022,1,TRU,39.6956328,-104.8629345
+9529,3730 N. Citadel Drive,3730 N. Citadel Drive,,Colorado Springs,CO,80909-5306,1,TRU,38.846464,-104.758773
+8867,8060 Giacosa Place,8060 Giacosa Place,,Memphis,TN,38133,1,TRU,35.1995791,-89.7944314
+9257,1965 Star Shoot Parkway,1965 Star Shoot Parkway,,Lexington,KY,40509,1,BRU,38.0257053,-84.4196533
+9254,1240 Doral Drive,1240 Doral Drive,,Poland,OH,44514,1,BRU,41.0308097,-80.6310395
+9255,G-3274 South Linden Roa,G-3274 South Linden Roa,,Flint,MI,48507,1,BRU,42.9799418,-83.773331
+9520,8330 North Broadway,8330 North Broadway,,Kansas City,MO,64118-1199,1,TRU,39.2442084,-94.5859654
+9521,3435 Oakview Drive,3435 Oakview Drive,,Omaha,NE,68144,1,TRU,41.226331,-96.1369499
+9250,32471 Gratiot Ave.,32471 Gratiot Ave.,,Roseville,MI,48066,1,BRU,42.5359109,-82.9117125
+9251,2001 Park Manor Blvd.,2001 Park Manor Blvd.,,Pittsburgh,PA,15205,1,TRU,40.4518981,-80.1679925
+8286,7400 Las Vegas Blvd S Las Vegas Outlet,7400 Las Vegas Blvd S,Las Vegas Outlet,Las Vegas,NV,89123,1,TRU,36.0539333,-115.1689283
+5671,8165 Fletcher Parkway,8165 Fletcher Parkway,,La Mesa,CA,91942,1,BRU,32.7752874,-117.0214552
+5672,2575 East Imperial High,2575 East Imperial High,,Brea,CA,92821,1,BRU,33.9133933,-117.8663384
+8285,114 N Chris Columbus Bv Atlantic City Outlet,114 N Chris Columbus Bv,Atlantic City Outlet,Atlantic City,NJ,08401,1,TRU,39.3602601,-74.4394924
+5674,2150 N Rainbow Blvd,2150 N Rainbow Blvd,,Las Vegas,NV,89108,1,BRU,36.1984712,-115.238538
+5675,2340 North Rose Avenue,2340 North Rose Avenue,,Oxnard,CA,93030,1,BRU,34.223557,-119.1552585
+5677,7886 N. Van Nuys Blvd,7886 N. Van Nuys Blvd,,Van Nuys,CA,91402,1,BRU,34.2158379,-118.4474653
+5678,11540 South Street,11540 South Street,,Cerritos,CA,90703,1,BRU,33.8572669,-118.0872566
+5679,7540 W. Bell Road,7540 W. Bell Road,,Glendale,AZ,85308,1,BRU,33.6398786,-112.2216712
+8288,12801 West Sunrise Blvd Sawgrass Mills Outlet,12801 West Sunrise Blvd,Sawgrass Mills Outlet,Sunrise,FL,33323,1,TRU,26.151701,-80.320787
+8289,999-16 Montauk Highway Southport Plaza,999-16 Montauk Highway,Southport Plaza,Shirley,NY,11967,1,TRU,40.8036284,-72.8602795
+7707,260 Ridge Way Rd.,260 Ridge Way Rd.,,Flowood,MS,39232,1,BRU,32.3411977,-90.0680367
+6509,88 Dunning Rd.,88 Dunning Rd.,,Middletown,NY,10940,1,BRU,41.4529798,-74.3746305
+6508,1220 Hooper Ave,1220 Hooper Ave,,Toms River,NJ,08753,1,BRU,39.9819719,-74.1839689
+7703,6851 Veterans Blvd.,6851 Veterans Blvd.,,Metairie,LA,70003,1,BRU,30.0065726,-90.2162826
+5579,1295 East 19th St,1295 East 19th St,,Upland,CA,91784,1,TRU,34.1330878,-117.6332821
+6503,98 Nj-10,98 Nj-10,,East Hanover,NJ,07936,1,BRU,40.8117397,-74.3840669
+6502,2601 Veterans Pkwy,2601 Veterans Pkwy,,Springfield,IL,62704,1,BRU,39.7694599,-89.7092729
+5573,320 Winecup Way Firewheel Town Center,320 Winecup Way,Firewheel Town Center,Garland,TX,75040,1,TRU,32.9521771,-96.6132708
+6333,66-26 Metropolitan Aven,66-26 Metropolitan Aven,,Flushing,NY,11379,1,TRU,40.7115027,-73.8918278
+5571,Shops At Midtown Miami 3401 N. Miami Ave,Shops At Midtown Miami,3401 N. Miami Ave,Miami,FL,33127,1,TRU,25.807479,-80.194315
+6504,990 Plaza Blvd,990 Plaza Blvd,,Lancaster,PA,17601,1,BRU,40.0658247,-76.3449292
+6378,108 Veterans Memorial King Kullen Plaza,108 Veterans Memorial,King Kullen Plaza,Commack,NY,11725,1,BRU,40.8383854,-73.2843159
+6379,2137 Nj-38,2137 Nj-38,,Cherry Hill,NJ,08002,1,BRU,39.9364156,-75.0259593
+6074,3130 Alpine Ave,3130 Alpine Ave,,Grand Rapids,MI,49544,1,TRU,43.0199616,-85.6864526
+6072,6207 South Westnedge Av,6207 South Westnedge Av,,Portage,MI,49002,1,TRU,42.227123,-85.5867067
+6070,3445-28th Street Se,3445-28th Street Se,,Grand Rapids,MI,49512,1,TRU,42.9137055,-85.5818214
+6370,1120 Hurffville Road,1120 Hurffville Road,,Deptford,NJ,08096,1,BRU,39.8366022,-75.0900217
+6371,1336 Bristol Pike,1336 Bristol Pike,,Bensalem,PA,19020,1,BRU,40.0735437,-74.9664414
+9553,9330 Sheridan Boulevard,9330 Sheridan Boulevard,,Westminster,CO,80030-6304,1,BRU,39.8661663,-105.051137
+9552,1501 West Arbrook Blvd,1501 West Arbrook Blvd,,Arlington,TX,76015,1,BRU,32.6853805,-97.1350698
+6374,5181 Sunrise Highway,5181 Sunrise Highway,,Bohemia,NY,11716,1,BRU,40.7648652,-73.0923669
+6375,100 Promenade Boulevard,100 Promenade Boulevard,,Bridgewater,NJ,08807,1,BRU,40.5618234,-74.5554301
+6376,1317 New Churchmans Rd,1317 New Churchmans Rd,,Newark,DE,19713,1,BRU,39.6918375,-75.666594
+6377,2700 Route 22 East,2700 Route 22 East,,Union,NJ,07083,1,BRU,40.6866464,-74.3105398
+5115,6507 Springfield Mall Springfield Town Center,6507 Springfield Mall,Springfield Town Center,Springfield,VA,22150,1,TRU,38.7743623,-77.1743759
+8348,660 Market Place Dr.,660 Market Place Dr.,,Bel Air,MD,21014,1,TRU,39.5225645,-76.3521212
+5138,1650 Premium Outlet Blv Chicago Premium Outlet,1650 Premium Outlet Blv,Chicago Premium Outlet,Aurora,IL,60502,1,TRU,41.800478,-88.2739699
+8342,3101 Plank Road,3101 Plank Road,,Fredericksburg,VA,22404,1,TRU,38.2966592,-77.5153055
+8341,14603 Telegraph Rd.,14603 Telegraph Rd.,,Woodbridge,VA,22194,1,TRU,38.6373971,-77.2912885
+8340,655 E Jubal Early Dr,655 E Jubal Early Dr,,Winchester,VA,22601,1,TRU,39.1641358,-78.1625647
+8347,142 Executive Drive,142 Executive Drive,,Danville,VA,24541,1,TRU,36.5932738,-79.4307125
+5132,11211 120th Avenue Pleasant Prairie Outlet,11211 120th Avenue,Pleasant Prairie Outlet,Pleasant Prairie,WI,53158,1,TRU,42.5164854,-87.948569
+8345,1730 Valley Mall Road Hagerstown,1730 Valley Mall Road,Hagerstown,Hagerstown,MD,21740,1,TRU,39.6271475,-77.7723392
+6437,8160 Mall Parkway,8160 Mall Parkway,,Lithonia,GA,30058-2545,1,BRU,33.6928713,-84.091313
+6432,9280 Rosedale Highway,9280 Rosedale Highway,,Bakersfield,CA,93312,1,BRU,35.3859624,-119.1053816
+6431,31250 Court House Dr,31250 Court House Dr,,Union City,CA,94587,1,BRU,37.6018764,-122.0648031
+6430,200 Running Hill Road Suite 6,200 Running Hill Road,Suite 6,South Portland,ME,04106,1,BRU,43.6345648,-70.3465882
+5615,1335 West Avenue K,1335 West Avenue K,,Lancaster,CA,93534,1,TRU,34.6765838,-118.1547729
+6439,12153 Jefferson Ave,12153 Jefferson Ave,,Newport News,VA,23602,1,BRU,37.1086613,-76.4987307
+6438,45 Hotel Circle,45 Hotel Circle,,Albuquerque,NM,87123,1,BRU,35.0832303,-106.5290962
+8368,235 Park Plaza,235 Park Plaza,,Altoona,PA,16602,1,TRU,40.4705594,-78.4037398
+8909,1650 East County Line R,1650 East County Line R,,Indianapolis,IN,46227,1,TRU,39.6360694,-86.1298564
+7557,801 Bass Pro Dr Nw 620 Outlets Of Des Moines,801 Bass Pro Dr Nw 620,Outlets Of Des Moines,Altoona,IA,50009,1,TRU,41.658355,-93.516027
+7554,1600 Premium Outlets Norfolk,1600 Premium Outlets,Norfolk,Norfolk,VA,23502,1,TRU,36.8825373,-76.1973754
+7009,17776 State Highway 249 Suite 1,17776 State Highway 249,Suite 1,Houston,TX,77064,1,TRU,29.9602085,-95.5439362
+7002,5651 Fairmont Parkway,5651 Fairmont Parkway,,Pasadena,TX,77505,1,TRU,29.6525628,-95.154022
+9021,13000 Folsom Blvd Folsom Outlets,13000 Folsom Blvd,Folsom Outlets,Folsom,CA,95630,1,TRU,38.6437307,-121.1876531
+7004,9730 Katy Freeway,9730 Katy Freeway,,Houston,TX,77024,1,TRU,29.7874227,-95.5351897
+7007,8270 Agora Pkwy,8270 Agora Pkwy,,Selma,TX,78154,1,TRU,29.569896,-98.3248819
+9022,4526 Baldwin Rd Great Lakes Crossing,4526 Baldwin Rd,Great Lakes Crossing,Auburn Hills,MI,48326,1,TRU,42.7025943,-83.2994742
+8906,4805 Outer Loop Road,4805 Outer Loop Road,,Louisville,KY,40219,1,TRU,38.1388016,-85.674311
+6753,61-35 Junction Blvd Rego Park Center,61-35 Junction Blvd,Rego Park Center,Rego Park,NY,11374,1,TRU,40.733111,-73.8628447
+5189,11850 Ne Executive Dr Edinburgh Prem Outlets,11850 Ne Executive Dr,Edinburgh Prem Outlets,Edinburgh,IN,46124,1,TRU,39.3098588,-85.9612122
+6756,7676 Polo Ground Blvd,7676 Polo Ground Blvd,,Memphis,TN,38125,1,TRU,35.0524867,-89.8078291
+6755,6001 West Sample Road,6001 West Sample Road,,Coral Springs,FL,33067,1,TRU,26.2752351,-80.2054816
+8934,851 S. 30th Street,851 S. 30th Street,,Heath,OH,43056,1,TRU,40.0298358,-82.4450396
+5819,2179 Monterey Highway,2179 Monterey Highway,,San Jose,CA,95125,1,TRU,37.3035474,-121.8668995
+8936,3400 N Morrison Rd,3400 N Morrison Rd,,Muncie,IN,47304,1,TRU,40.2208018,-85.440305
+8930,7800 Montgomery Road,7800 Montgomery Road,,Cincinnati,OH,45236,1,TRU,39.196875,-84.3790099
+8931,2500 N. Fairfield Rd,2500 N. Fairfield Rd,,Beavercreek,OH,45431,1,TRU,39.7644664,-84.050359
+8933,2846 Mountaineer Blvd,2846 Mountaineer Blvd,,Charleston,WV,25309,1,TRU,38.317074,-81.7198221
+5810,718 West Hammer Lane,718 West Hammer Lane,,Stockton,CA,95210,1,TRU,38.0198546,-121.3214422
+8834,2830 East Franklin Blvd,2830 East Franklin Blvd,,Gastonia,NC,28056,1,TRU,35.2617619,-81.1299023
+8837,877 Brevard Rd.,877 Brevard Rd.,,Asheville,NC,28806,1,TRU,35.5288023,-82.6077611
+7518,4505 Commercial Drive,4505 Commercial Drive,,New Hartford,NY,13413,1,TRU,43.0849458,-75.321279
+5814,130 East El Camino Real,130 East El Camino Real,,Sunnyvale,CA,94087,1,TRU,37.3656425,-122.03172
+8830,2680 David Mcleod Bvld.,2680 David Mcleod Bvld.,,Florence,SC,29501,1,TRU,34.187269,-79.833885
+5817,24011 Hesperian Blvd,24011 Hesperian Blvd,,Hayward,CA,94541,1,TRU,37.652424,-122.1115876
+8894,1214 Bridford Pkwy,1214 Bridford Pkwy,,Greensboro,NC,27407,1,BRU,36.0576901,-79.9027554
+8893,708 W. State Road 436,708 W. State Road 436,,Altamonte Springs,FL,32714,1,BRU,28.6633366,-81.4133548
+6429,169 Hale Road,169 Hale Road,,Manchester,CT,06040,1,BRU,41.8126045,-72.5316076
+7078,17 Prime Outlets Blvd,17 Prime Outlets Blvd,,Lee,MA,01238,1,TRU,42.2942924,-73.2342826
+7074,1600 Water St,1600 Water St,,Laredo,TX,78040,1,TRU,27.501943,-99.5120716
+9223,3030 Sheridan Drive,3030 Sheridan Drive,,Amherst,NY,14226,1,TRU,42.9816659,-78.8212995
+7076,1155 Buck Creek Rd Outlet Shoppes Bluegras,1155 Buck Creek Rd,Outlet Shoppes Bluegras,Simpsonville,KY,40067,1,TRU,38.2059821,-85.3515396
+7077,2700 Potomac Mills Cir,2700 Potomac Mills Cir,,Woodbridge,VA,22192,1,TRU,38.6433389,-77.2951029
+7071,10600 Quil Ceda Blvd Seattle Premium Outlet,10600 Quil Ceda Blvd,Seattle Premium Outlet,Marysville,WA,98271-8081,1,TRU,48.093531,-122.188311
+7073,500 North H69 Corpus Christi Bay,500 North H69,Corpus Christi Bay,Robstown,TX,78380,1,TRU,27.7934945,-97.6494666
+6555,50 Holyoke Street Ingleside Mall,50 Holyoke Street,Ingleside Mall,Holyoke,MA,01040,1,BRU,42.1691734,-72.6408633
+6978,18 West Lightcap Rd Space1005,18 West Lightcap Rd,Space1005,Pottstown,PA,19464,1,TRU,40.236109,-75.5693365
+7828,2500 E. Elliott Street,2500 E. Elliott Street,,Wichita Falls,TX,76308,1,TRU,33.8664257,-98.5305331
+7822,2412 S Stemmons Fwy,2412 S Stemmons Fwy,,Lewisville,TX,75067,1,TRU,33.007269,-96.9690217
+7821,5609 E. Rogers Ave.,5609 E. Rogers Ave.,,Fort Smith,AR,72903,1,TRU,35.3629992,-94.3702559
+7820,9358 N Central Expy,9358 N Central Expy,,Dallas,TX,75231,1,TRU,32.875033,-96.7679695
+7827,402 West Loop 281,402 West Loop 281,,Longview,TX,75604,1,TRU,32.5396631,-94.7559114
+7826,2500 E. Central Texas Expressway #b,2500 E. Central Texas,Expressway #b,Killeen,TX,76541,1,TRU,31.0875445,-97.7184082
+7825,414 E.s.e. Loop 323,414 E.s.e. Loop 323,,Tyler,TX,75701,1,TRU,32.303646,-95.2967669
+8245,16511 N. Washington St.,16511 N. Washington St.,,Thornton,CO,80023-8971,1,TRU,39.995357,-104.9822122
+6447,2785 E. Bidwell St.,2785 E. Bidwell St.,,Folsom,CA,95630,1,BRU,38.6523552,-121.1254362
+6444,2655 Richmond Ave,2655 Richmond Ave,,Staten Island,NY,10314,1,BRU,40.5774739,-74.1645062
+6039,4411 West Wisconsin Av,4411 West Wisconsin Av,,Appleton,WI,54913,1,TRU,44.2716916,-88.4739029
+6038,1640 West Mason Street,1640 West Mason Street,,Green Bay,WI,54303,1,TRU,44.5259806,-88.0662776
+6033,7309 West Town Way,7309 West Town Way,,Madison,WI,53719,1,TRU,43.054222,-89.5084793
+6032,2723 Milton Ave.,2723 Milton Ave.,,Janesville,WI,53546,1,TRU,42.7166403,-89.0015931
+6037,355 S. Moorland Road,355 S. Moorland Road,,Brookfield,WI,53005,1,TRU,43.0274305,-88.1112594
+6035,3900 South 27th Street,3900 South 27th Street,,Milwaukee,WI,53221-1826,1,TRU,42.9724965,-87.9476354
+6034,6449 East State St,6449 East State St,,Rockford,IL,61108,1,TRU,42.2651484,-88.9909397
+9205,8515 Day Drive,8515 Day Drive,,Parma,OH,44129,1,TRU,41.3789259,-81.7447783
+9204,1385 Som Center Road,1385 Som Center Road,,Mayfield Heights,OH,44124,1,TRU,41.5225244,-81.4369628
+5171,311 Stanley Ktanger Bvd Tanger Outle Lancaster,311 Stanley Ktanger Bvd,Tanger Outle Lancaster,Lancaster,PA,17602,1,TRU,40.0265165,-76.2223881
+9206,5555 Youngston-warren R,5555 Youngston-warren R,,Niles,OH,44446,1,TRU,41.2144333,-80.7463789
+5176,5300 San Dario Avenue Mall Del Norte,5300 San Dario Avenue,Mall Del Norte,Laredo,TX,78041,1,TRU,27.551822,-99.501208
+9203,590 Howe Ave,590 Howe Ave,,Cuyahoga Falls,OH,44221,1,TRU,41.1190914,-81.4762141
+6411,2700 Central Park Ave,2700 Central Park Ave,,Yonkers,NY,10710,1,BRU,40.986162,-73.8238193
+8385,500 East Naylor Mill Rd,500 East Naylor Mill Rd,,Salisbury,MD,21804,1,TRU,38.4082651,-75.5649102
+6441,1522-24 Boston Post Rd.,1522-24 Boston Post Rd.,,Milford,CT,06460,1,BRU,41.2446803,-73.0303165
+9209,1920 Edinboro Road,1920 Edinboro Road,,Erie,PA,16509,1,TRU,42.0658359,-80.0942953
+9208,1601 West River Road No,1601 West River Road No,,Elyria,OH,44035,1,TRU,41.3981642,-82.1059948
+8381,3330 Westgate Dr.,3330 Westgate Dr.,,Durham,NC,27707,1,TRU,35.9667951,-78.9625105
+6559,1238 Putty Hill Ave.,1238 Putty Hill Ave.,,Towson,MD,21204,1,BRU,39.3934026,-76.5827889
+8019,821 Columbia Center,821 Columbia Center,,Kennewick,WA,99336,1,TRU,46.2236563,-119.2273834
+8018,447 Great Mall Drive Great Mall/bay Area,447 Great Mall Drive,Great Mall/bay Area,Milpitas,CA,95035,1,TRU,37.415738,-121.897412
+5748,200 Bass Pro Drive The Outlets Of Mississi,200 Bass Pro Drive,The Outlets Of Mississi,Pearl,MS,39288,1,TRU,32.2739008,-90.1534123
+5749,900 Camarillo C Dr 1112 Camarillo Prem Outlets,900 Camarillo C Dr 1112,Camarillo Prem Outlets,Camarillo,CA,93010,1,TRU,34.21665,-119.0603778
+8015,1000 Cooper Point Road,1000 Cooper Point Road,,Olympia,WA,98502,1,TRU,47.038492,-122.9376523
+8014,2070 N Eagle Road,2070 N Eagle Road,,Meridian,ID,83646,1,TRU,43.623913,-116.3544041
+8013,3567 Nw Randall Way,3567 Nw Randall Way,,Silverdale,WA,98383,1,TRU,47.6556248,-122.6948862
+8011,103 110th Ave N. E.,103 110th Ave N. E.,,Bellevue,WA,98004,1,TRU,47.6115437,-122.1942116
+8010,1200 Lancaster Dr. Ne,1200 Lancaster Dr. Ne,,Salem,OR,97301,1,TRU,44.9450943,-122.9815825
+6479,50 International Dr. S,50 International Dr. S,,Flanders,NJ,07836,1,BRU,40.8844094,-74.7087398
+6478,20111 Route19,20111 Route19,,Cranberry Township,PA,16066,1,BRU,40.6827434,-80.1036059
+6576,994 Brook Forest Ave.,994 Brook Forest Ave.,,Shorewood,IL,60404,1,BRU,41.5393849,-88.1971
+6577,10732 Villiage Pkwy Dr,10732 Villiage Pkwy Dr,,Port Saint Lucie,FL,34987,1,BRU,27.268322,-80.4296689
+5629,7102 Eastern Ave,7102 Eastern Ave,,Bell Gardens,CA,90201,1,TRU,33.9690693,-118.1634503
+5628,1240 West Morena Blvd,1240 West Morena Blvd,,San Diego,CA,92110,1,TRU,32.7693348,-117.203907
+5627,2425 Vista Way,2425 Vista Way,,Oceanside,CA,92054,1,TRU,33.1827531,-117.335011
+5626,8790 Grossmont Blvd,8790 Grossmont Blvd,,La Mesa,CA,91941,1,TRU,32.7745777,-117.0097749
+6471,6501 E. Lloyd Expresswy,6501 E. Lloyd Expresswy,,Evansville,IN,47715,1,BRU,37.973437,-87.4722165
+6470,6680 Peach Street,6680 Peach Street,,Erie,PA,16509,1,BRU,42.0551205,-80.0948719
+6477,2969 Festival Way,2969 Festival Way,,Waldorf,MD,20601,1,BRU,38.6307786,-76.9110403
+5622,22035 Hawthorne Blvd,22035 Hawthorne Blvd,,Torrance,CA,90503,1,TRU,33.8269878,-118.3535367
+5620,42500 Jackson Street,42500 Jackson Street,,Indio,CA,92203,1,TRU,33.740366,-116.213081
+9560,900 West 78th St. South,900 West 78th St. South,,Richfield,MN,55423,1,BRU,44.8634484,-93.2913409
+6326,330 Old Gate Lane,330 Old Gate Lane,,Milford,CT,06460,1,TRU,41.2346465,-73.0284275
+6325,122 East Route 59,122 East Route 59,,Nanuet,NY,10954,1,TRU,41.0963527,-74.0061942
+6324,1851 Sunrise Highway,1851 Sunrise Highway,,Bay Shore,NY,11706,1,TRU,40.7409708,-73.2370519
+6323,8973-95 Bay Parkway,8973-95 Bay Parkway,,Brooklyn,NY,11214,1,TRU,40.5934756,-74.0010284
+6322,242-02 61st Ave Douglaston Plaza,242-02 61st Ave,Douglaston Plaza,Little Neck,NY,11362,1,TRU,40.7544965,-73.7376181
+6321,1224 Hooper Ave,1224 Hooper Ave,,Toms River,NJ,08753,1,TRU,39.9811603,-74.1845436
+6320,1000 Central Park Ave,1000 Central Park Ave,,Yonkers,NY,10704,1,TRU,40.936008,-73.854732
+9568,1122 E. Fort Union Blvd,1122 E. Fort Union Blvd,,Midvale,UT,84047,1,BRU,40.6221348,-111.8598373
+9569,865 Blossom Hill Road,865 Blossom Hill Road,,San Jose,CA,95123,1,BRU,37.2514301,-121.85728
+6329,1701 Morris Ave,1701 Morris Ave,,Union,NJ,07083,1,TRU,40.6947109,-74.2552689
+9063,105 Plaza Drive,105 Plaza Drive,,Vallejo,CA,94591,1,TRU,38.1316399,-122.2167836
+9062,12347 Seal Beach Blvd,12347 Seal Beach Blvd,,Seal Beach,CA,90740,1,TRU,33.7817664,-118.0747692
+9066,1450 Ala Moana Blvd Ala Moana Mall,1450 Ala Moana Blvd,Ala Moana Mall,Ala Moana,HI,96814,1,TRU,21.2911038,-157.8434622
+9245,4623 Shelbyville Rd,4623 Shelbyville Rd,,Louisville,KY,40207,1,BRU,38.2521825,-85.6260669
+8332,10200 Reistertown Rd,10200 Reistertown Rd,,Owings Mills,MD,21117,1,TRU,39.4159003,-76.7778339
+8333,11055 Mall Circle Road,11055 Mall Circle Road,,Waldorf,MD,20603,1,TRU,38.6175692,-76.9216089
+8330,3849 S Delsea Dr 3849 S Delsea Dr,3849 S Delsea Dr,3849 S Delsea Dr,Vineland,NJ,08360,1,TRU,39.4327624,-75.0345826
+8331,1869 S. Park Blvd.,1869 S. Park Blvd.,,Colonial Heights,VA,23834,1,TRU,37.2534955,-77.3884236
+8336,2115 West St.,2115 West St.,,Annapolis,MD,21401,1,TRU,38.984884,-76.5475442
+9247,12050 Hall Road,12050 Hall Road,,Sterling Heights,MI,48313,1,BRU,42.6234997,-83.008453
+8334,3700 Candlers Mountain Rd,3700 Candlers,Mountain Rd,Lynchburg,VA,24502,1,TRU,37.3589076,-79.1686399
+8335,10318 Portsmouth Rd.,10318 Portsmouth Rd.,,Manassas,VA,20110,1,TRU,38.780007,-77.5064015
+8338,590 Branchlands Blvd,590 Branchlands Blvd,,Charlottesville,VA,22901,1,TRU,38.0734469,-78.4786872
+8870,3480 Financial Ctr Way,3480 Financial Ctr Way,,Buford,GA,30519,1,TRU,34.0737505,-83.9870715
+8873,1100 Seaboard Street Myrtle Beach,1100 Seaboard Street,Myrtle Beach,Myrtle Beach,SC,29577,1,TRU,33.7096962,-78.8974112
+7257,575 West Linmar Lane,575 West Linmar Lane,,Johnson Creek,WI,53038,1,TRU,43.088727,-88.763522
+8875,8040 Richie Highway,8040 Richie Highway,,Pasadena,MD,21122,1,BRU,39.1258246,-76.5925758
+8878,9575 South Boulevard,9575 South Boulevard,,Charlotte,NC,28273,1,BRU,35.1030491,-80.8771026
+5661,1425 W Sunset Rd,1425 W Sunset Rd,,Henderson,NV,89014,1,TRU,36.0618215,-115.0471786
+5692,7370 North Blackstone R,7370 North Blackstone R,,Pinedale,CA,93650,1,BRU,36.8439862,-119.7889028
+7523,16 Veterans Memorial Pa,16 Veterans Memorial Pa,,Salem,NH,03079,1,TRU,42.7691948,-71.2165841
+7520,8 Gallen Rd,8 Gallen Rd,,Kingston,MA,02364,1,TRU,41.9753518,-70.7145432
+7521,272 Daniel Webster Hwy,272 Daniel Webster Hwy,,Nashua,NH,03060,1,TRU,42.7065403,-71.4400789
+7527,118 Commercial Rd. Searstown Mall,118 Commercial Rd.,Searstown Mall,Leominster,MA,01453,1,TRU,42.529427,-71.741807
+7524,1190 S. Washington St.,1190 S. Washington St.,,North Attleboro,MA,02760,1,TRU,41.942175,-71.3466298
+7528,310 Loudon Rd.,310 Loudon Rd.,,Concord,NH,03301,1,TRU,43.2271118,-71.4829651
+5666,25510 The Old Road,25510 The Old Road,,Newhall,CA,91381,1,TRU,34.3845523,-118.5697857
+6855,601 Wabash Street Lighthouse Place Outlet,601 Wabash Street,Lighthouse Place Outlet,Michigan City,IN,46360,1,TRU,41.7145907,-86.9067324
+9556,8500 West 135th Street,8500 West 135th Street,,Overland Park,KS,66223,1,BRU,38.8856673,-94.6850635
+5616,1833 La Cienega Blvd,1833 La Cienega Blvd,,Los Angeles,CA,90035,1,TRU,34.0442646,-118.3791531
+5617,179 N. Moorpark Rd.,179 N. Moorpark Rd.,,Thousand Oaks,CA,91360,1,TRU,34.1821643,-118.8773846
+7030,1101 W. Expressway 83,1101 W. Expressway 83,,Mc Allen,TX,78502,1,TRU,26.1881712,-98.2344435
+7031,6145 Westheimer Rd,6145 Westheimer Rd,,Houston,TX,77057,1,TRU,29.7364332,-95.490925
+7032,321 Nw Loop 410 Suite 108,321 Nw Loop 410,Suite 108,San Antonio,TX,78216,1,TRU,29.5236003,-98.4971492
+5614,1600 S. Azusa Ave.,1600 S. Azusa Ave.,,City Of Industry,CA,91716,1,TRU,33.9939594,-117.9272572
+7036,1212 Old Spanish Trail,1212 Old Spanish Trail,,Houston,TX,77054,1,TRU,29.6919541,-95.4116697
+7038,1306 Harvey Road,1306 Harvey Road,,College Station,TX,77845,1,TRU,30.6238492,-96.3059566
+7039,1420 Lake Woodland Dr.,1420 Lake Woodland Dr.,,The Woodlands,TX,77380-3233,1,TRU,30.1697522,-95.4567359
+7132,1201 Broadway Square One,1201 Broadway,Square One,Saugus,MA,01906,1,TRU,42.461084,-71.0274927
+6312,2795 Richmond Ave,2795 Richmond Ave,,Staten Island,NY,10314,1,TRU,40.5770112,-74.1680554
+6313,137 Route 35 North,137 Route 35 North,,Eatontown,NJ,07724,1,TRU,40.2961787,-74.052444
+8366,1055 Woodland Rd,1055 Woodland Rd,,Wyomissing,PA,19610,1,TRU,40.345762,-75.971063
+6310,300 West Sunrise Highwa,300 West Sunrise Highwa,,Valley Stream,NY,11580,1,TRU,40.6618673,-73.7109897
+6164,7051 S Desert Blvd Outlets At El Paso,7051 S Desert Blvd,Outlets At El Paso,Canutillo,TX,79835-8557,1,TRU,31.9127566,-106.586125
+8804,5484 Atlanta Highway,5484 Atlanta Highway,,Montgomery,AL,36109,1,TRU,32.3800385,-86.2117439
+8805,2955 Cobb Parkway,2955 Cobb Parkway,,Atlanta,GA,30339,1,TRU,33.8823782,-84.4594575
+5845,2270 Bridgepointe Pkwy,2270 Bridgepointe Pkwy,,San Mateo,CA,94404,1,TRU,37.5600424,-122.2805734
+5843,1660 Commercial Way,1660 Commercial Way,,Santa Cruz,CA,95065,1,TRU,36.9874316,-121.9818055
+5842,6780 Stanford Ranch Rd.,6780 Stanford Ranch Rd.,,Roseville,CA,95678,1,TRU,38.7808933,-121.2705063
+8802,1800 Gallatin Pike Nort Rivergate,1800 Gallatin Pike Nort,Rivergate,Madison,TN,37115,1,TRU,36.2982897,-86.6990307
+8803,209 South Point Blvd,209 South Point Blvd,,Mc Donough,GA,30252,1,TRU,33.4232007,-84.1912774
+8809,6884 Governors West,6884 Governors West,,Huntsville,AL,35806,1,TRU,34.7163277,-86.6763973
+6317,3250 Middle Country Rd,3250 Middle Country Rd,,Lake Grove,NY,11755,1,TRU,40.8600615,-73.1280048
+6583,9930 Alabama St.,9930 Alabama St.,,Redlands,CA,92374,1,TRU,34.0735808,-117.2103672
+6581,26573 Carl Boyer Drive,26573 Carl Boyer Drive,,Santa Clarita,CA,91350,1,BRU,34.4166343,-118.5084753
+6580,7020 Arroyo Crossing,7020 Arroyo Crossing,,Las Vegas,NV,89118,1,BRU,36.0646187,-115.2447247
+6314,38 Wolf Road,38 Wolf Road,,Albany,NY,12205,1,TRU,42.7125075,-73.8190744
+8754,7400 Abercorn St,7400 Abercorn St,,Savannah,GA,31406,1,TRU,32.0079192,-81.1113022
+8755,7800 Rivers Ave Suite 1100,7800 Rivers Ave,Suite 1100,North Charleston,SC,29406-4066,1,TRU,32.9494716,-80.0392769
+8204,150 Quaker Bridge Rd Quaker Bridge Mall,150 Quaker Bridge Rd,Quaker Bridge Mall,Lawrenceville,NJ,08648,1,TRU,40.2905097,-74.6816307
+6315,641 Route 440,641 Route 440,,Jersey City,NJ,07304,1,TRU,40.7189598,-74.0938089
+8751,4607 Millenia Plaza Way,4607 Millenia Plaza Way,,Orlando,FL,32839,1,TRU,28.497496,-81.4273934
+6318,675 Route 1 South The Plaza At Woodbridge,675 Route 1 South,The Plaza At Woodbridge,Iselin,NJ,08830,1,TRU,40.5594395,-74.3085486
+8729,4875 Town Center Pkwy,4875 Town Center Pkwy,,Jacksonville,FL,32246,1,TRU,30.2534793,-81.5339998
+8728,26286 Us 19 North,26286 Us 19 North,,Clearwater,FL,33761,1,TRU,28.0115821,-82.7359334
+8722,Calaf Street 555 Plaza De Las Americas,Calaf Street 555,Plaza De Las Americas,San Juan,PR,00918,1,TRU,18.4238019,-66.0788794
+8725,1250 N Alafaya Trail,1250 N Alafaya Trail,,Orlando,FL,32828,1,TRU,28.5618733,-81.2089163
+8724,350 E. Altamonte Dr,350 E. Altamonte Dr,,Altamonte Springs,FL,32701,1,TRU,28.6624734,-81.3794216
+8727,"6105 Wesley Grove Blvd,","6105 Wesley Grove Blvd,",,Wesley Chapel,FL,33544,1,TRU,28.2460753,-82.3514779
+8726,1631 Florida Mall Av,1631 Florida Mall Av,,Orlando,FL,32809,1,TRU,28.4461844,-81.4011842
+9249,20111 Haggerty Road,20111 Haggerty Road,,Northville,MI,48167,1,BRU,42.4329189,-83.4367625
+9248,15820 94th Avenue,15820 94th Avenue,,Orland Park,IL,60462-4725,1,BRU,41.603349,-87.849383
+9539,3145 Manawa Center Dr,3145 Manawa Center Dr,,Council Bluffs,IA,51501,1,TRU,41.228751,-95.8438828
+9538,4603 13th Ave South,4603 13th Ave South,,Fargo,ND,58102,1,TRU,46.8633961,-96.863779
+9537,4401 W Empire Pl,4401 W Empire Pl,,Sioux Falls,SD,57106,1,TRU,43.5088941,-96.7811233
+9240,2661 Miamisburg-centerv,2661 Miamisburg-centerv,,Dayton,OH,45459,1,BRU,39.6381768,-84.2174497
+9243,3928 East 82nd Street,3928 East 82nd Street,,Indianapolis,IN,46240,1,BRU,39.9097696,-86.0991755
+9242,3610 W Dublin-granville Rd.,3610 W Dublin-granville,Rd.,Columbus,OH,43235,1,BRU,40.0954033,-83.0847459
+9533,4250 Corbett Dr,4250 Corbett Dr,,Fort Collins,CO,80525,1,TRU,40.5275611,-105.0251383
+9244,925 Cincinnati Mills Dr,925 Cincinnati Mills Dr,,Cincinnati,OH,45240,1,BRU,39.302439,-84.5196983
+9531,5650 W. 88th Ave.,5650 W. 88th Ave.,,Westminster,CO,80030,1,TRU,39.8550864,-105.0591697
+9246,7750 South Cicero Avenu,7750 South Cicero Avenu,,Burbank,IL,60459,1,BRU,41.7525097,-87.7422873
+6536,10002 Gulf Center Drive,10002 Gulf Center Drive,,Fort Myers,FL,33913,1,BRU,26.4837965,-81.7879944
+5662,2500 W Commonwealth Ave,2500 W Commonwealth Ave,,Alhambra,CA,91802,1,TRU,34.0861311,-118.1507663
+6534,1860 Main Court,1860 Main Court,,Chula Vista,CA,91911,1,BRU,32.5930392,-117.0350608
+5667,2905 Los Feliz Blvd,2905 Los Feliz Blvd,,Los Angeles,CA,90039,1,TRU,34.1281903,-118.2647255
+6533,700 Nassau Park Blvd.,700 Nassau Park Blvd.,,West Windsor,NJ,08550,1,BRU,40.3033033,-74.6822497
+5664,7430 West Bell Rd.,7430 West Bell Rd.,,Glendale,AZ,85301,1,TRU,33.6397845,-112.218266
+5669,13672 Jamboree Road,13672 Jamboree Road,,Irvine,CA,92620,1,BRU,33.720103,-117.7926288
+6538,24-30 Union Square East Manhattan,24-30 Union Square East,Manhattan,New York,NY,10003,1,BRU,40.7355547,-73.9893823
+6539,465 Us Highway 46 West,465 Us Highway 46 West,,Totowa,NJ,07512,1,BRU,40.895641,-74.234708
+7711,17610 La Cantera,17610 La Cantera,,San Antonio,TX,78257,1,BRU,29.6085121,-98.594468
+8822,1025 Woodruff Road,1025 Woodruff Road,,Greenville,SC,29605,1,TRU,34.8357952,-82.3086986
+7713,3300 W Expressway 83 Suite 500,3300 W Expressway 83,Suite 500,Mc Allen,TX,78501,1,BRU,26.1969393,-98.2578804
+7712,2616 S.shackleford Rd.,2616 S.shackleford Rd.,,Little Rock,AR,72205,1,BRU,34.7309609,-92.3993621
+7507,302 Providence Highway Route 1,302 Providence,Highway Route 1,Dedham,MA,02026,1,TRU,42.2533771,-71.1704669
+5543,5300 South 76th Street Southridge Mall,5300 South 76th Street,Southridge Mall,Greendale,WI,53129,1,TRU,42.9480433,-88.004404
+6369,909 Us Highway 1 South,909 Us Highway 1 South,,North Brunswick,NJ,08902,1,BRU,40.461596,-74.463101
+5544,275 W Ka'ahumanu Ave Queen Ka'ahumanu Ctr,275 W Ka'ahumanu Ave,Queen Ka'ahumanu Ctr,Kahului,HI,96732,1,TRU,20.8875315,-156.4752267
+6040,2425 Wiley Blvd,2425 Wiley Blvd,,Cedar Rapids,IA,52404,1,TRU,41.9548225,-91.7245617
+6368,13035 Fair Lakes Plaza,13035 Fair Lakes Plaza,,Fairfax,VA,22030,1,TRU,38.8563375,-77.3919888
+6046,1852 E. County Road D,1852 E. County Road D,,Maplewood,MN,55109,1,TRU,45.0352809,-93.0228433
+6047,170 89th Ave N.e.,170 89th Ave N.e.,,Blaine,MN,55434,1,TRU,45.1312155,-93.2611664
+6044,14100 Wayzata Blvd.,14100 Wayzata Blvd.,,Minnetonka,MN,55305,1,TRU,44.9726713,-93.4560655
+6363,7 Arnot Road,7 Arnot Road,,Horseheads,NY,14845,1,TRU,42.1636917,-76.8756473
+6362,409 Scranton Carbondale Highway,409 Scranton Carbondale,Highway,Scranton,PA,18508,1,TRU,41.4625739,-75.6560805
+6361,620 Kidder Street,620 Kidder Street,,Wilkes Barre,PA,18702,1,TRU,41.2514437,-75.8463099
+6360,3265 Brunswick Pike,3265 Brunswick Pike,,Lawrenceville,NJ,08648,1,TRU,40.2914517,-74.6880815
+6367,708 Upper Glen St.,708 Upper Glen St.,,Queensbury,NY,12804,1,TRU,43.3288125,-73.6720376
+6366,376 Universal Drive Nth,376 Universal Drive Nth,,North Haven,CT,06473,1,TRU,41.3533932,-72.8744774
+6365,900 Ikea Dr,900 Ikea Dr,,Elizabeth,NJ,07201,1,TRU,40.6720764,-74.1722879
+6364,416 Harry L Drive Rts 201 &17,416 Harry L Drive,Rts 201 &17,Johnson City,NY,13790,1,TRU,42.1208002,-75.9645222
+8376,3200 Silas Creek Pkwy,3200 Silas Creek Pkwy,,Winston-salem,NC,27103,1,TRU,36.0703302,-80.2932217
+8374,1736 Skibo Rd.,1736 Skibo Rd.,,Fayetteville,NC,28303,1,TRU,35.0769938,-78.9631756
+8375,4510 Oleander Drive,4510 Oleander Drive,,Wilmington,NC,28403,1,TRU,34.209447,-77.8885433
+8372,1840 Highway 70 S.e.,1840 Highway 70 S.e.,,Hickory,NC,28601-5156,1,TRU,35.7049203,-81.30835
+8373,3728 W Gate City Blvd,3728 W Gate City Blvd,,Greensboro,NC,27407,1,TRU,36.0397841,-79.8538216
+8370,620 Galleria Dr.,620 Galleria Dr.,,Johnstown,PA,15904,1,TRU,40.2985309,-78.8302587
+8371,1910 N. Roan St.,1910 N. Roan St.,,Johnson City,TN,37601-3116,1,TRU,36.3368637,-82.3722202
+8378,228 S.w. Greenville Blv,228 S.w. Greenville Blv,,Greenville,NC,27834,1,TRU,35.5756469,-77.3896129
+8379,201 Crossroad Blvd.,201 Crossroad Blvd.,,Cary,NC,27518,1,TRU,35.762631,-78.7409786
+9582,5800 Overton Ridge Blvd,5800 Overton Ridge Blvd,,Fort Worth,TX,76132,1,BRU,32.6771552,-97.4138447
+9583,8640 North Madison Ave,8640 North Madison Ave,,Kansas City,MO,64155,1,BRU,39.2516305,-94.5949319
+9580,1248 Galleria Blvd,1248 Galleria Blvd,,Roseville,CA,95678,1,BRU,38.7748174,-121.2634876
+9581,1990 University Drive,1990 University Drive,,Vista,CA,92083,1,BRU,33.171559,-117.220754
+9238,1955 Glacier Park Ave,1955 Glacier Park Ave,,Naperville,IL,60540,1,BRU,41.7747427,-88.2042168
+9239,2686 Taylor Rd.,2686 Taylor Rd.,,Reynoldsburg,OH,43068,1,BRU,39.9371116,-82.7888859
+9234,1000 Cranberry Square,1000 Cranberry Square,,Cranberry Township,PA,16066,1,TRU,40.6892475,-80.10435
+9236,16 East Golf Road,16 East Golf Road,,Schaumburg,IL,60173-3700,1,BRU,42.0518598,-88.0786485
+9237,8800 Us Route 31 South,8800 Us Route 31 South,,Indianapolis,IN,46227,1,BRU,39.6374401,-86.1304111
+9232,52 Rothrock Road,52 Rothrock Road,,Copley,OH,44321,1,TRU,41.1339814,-81.645763
+9233,2196 West 4th St & Lex-springmill Road,2196 West 4th St &,Lex-springmill Road,Mansfield,OH,44906,1,TRU,40.7724158,-82.5904069
+6403,6875 Douglas Boulevard,6875 Douglas Boulevard,,Douglasville,GA,30135,1,BRU,33.7279164,-84.7571597
+7564,40-24 College Point Blv Skyview Center,40-24 College Point Blv,Skyview Center,Flushing,NY,11354,1,TRU,40.757823,-73.834937
+6049,4555 16th Street,4555 16th Street,,Moline,IL,61265,1,TRU,41.4682596,-90.5083309
+7562,1466 Broadway Times Square,1466 Broadway,Times Square,New York,NY,10036,1,TRU,40.7553143,-73.9860742
+7563,5000 Katy Mills Circle Katy Mills Outlets,5000 Katy Mills Circle,Katy Mills Outlets,Katy,TX,77494,1,TRU,29.7758308,-95.8093358
+7561,15853 N. Fwy Site#1135 Tanger Ft Worth,15853 N. Fwy Site#1135,Tanger Ft Worth,Fort Worth,TX,76177,1,TRU,32.995889,-97.296909
+6409,21697 State Road 7,21697 State Road 7,,Boca Raton,FL,33428,1,BRU,26.3535259,-80.2051599
+6078,5363 Harvey St.,5363 Harvey St.,,Muskegon,MI,49444,1,TRU,43.1550353,-86.2073787
+9058,46-056 Kamehameha Hwy Windward Mall,46-056 Kamehameha Hwy,Windward Mall,Kaneohe,HI,96744,1,TRU,21.419886,-157.805233
+9059,5001 East Expressway 83 Rio Grande Vly Outlets,5001 East Expressway 83,Rio Grande Vly Outlets,Mercedes,TX,78570,1,TRU,26.162872,-97.887797
+6629,610 Exterior Street,610 Exterior Street,,Bronx,NY,10451,1,TRU,40.8218597,-73.9298183
+6624,7020 North 5th St. Deer Springs Town Cnter,7020 North 5th St.,Deer Springs Town Cnter,North Las Vegas,NV,89084,1,TRU,36.2880854,-115.1332359
+6622,3665 Grand Oaks,3665 Grand Oaks,,Corona,CA,92881,1,TRU,33.8243712,-117.5118125
+6623,3 Mill Creek Drive,3 Mill Creek Drive,,Secaucus,NJ,07094,1,TRU,40.7930686,-74.0518411
+9057,2601 S. Mckenzie Street Foley Outlet,2601 S. Mckenzie Street,Foley Outlet,Foley,AL,36535,1,TRU,30.3756767,-87.6801683
+8913,9251 East Washington St,9251 East Washington St,,Indianapolis,IN,46229,1,TRU,39.773511,-86.0007447
+5191,6401 W Marana Ctr Blvd Tucson Prem Outlets,6401 W Marana Ctr Blvd,Tucson Prem Outlets,Tucson,AZ,85742-8558,1,TRU,32.3752782,-111.101733
+8910,4285 Groves Road,4285 Groves Road,,Columbus,OH,43232,1,TRU,39.9299399,-82.8822443
+5192,2398 Grand Cypress Dr Tampa Prem Outlets,2398 Grand Cypress Dr,Tampa Prem Outlets,Lutz,FL,33558,1,TRU,28.1903542,-82.3905997
+8927,2904 West Deyoung St.,2904 West Deyoung St.,,Marion,IL,62959,1,TRU,37.7455543,-88.9767302
+8925,55 W. Honeycreek Pkwy,55 W. Honeycreek Pkwy,,Terre Haute,IN,47802,1,TRU,39.4241231,-87.4186325
+8924,951 E. Lewis And Clark Clarksville,951 E. Lewis And Clark,Clarksville,Clarksville,IN,47129,1,TRU,38.3202432,-85.7599448
+8923,3000 Scottsville Rd,3000 Scottsville Rd,,Bowling Green,KY,42101,1,TRU,36.9439321,-86.4208637
+8922,6547 Sawmill Rd,6547 Sawmill Rd,,Dublin,OH,43017,1,TRU,40.1006789,-83.0932793
+8921,109 Mall Road,109 Mall Road,,Barboursville,WV,25504,1,TRU,38.4225484,-82.2604717
+8920,4122 Lima Road,4122 Lima Road,,Fort Wayne,IN,46805,1,TRU,41.1168498,-85.1442039
+5803,2075 Diamond Blvd Suite 180,2075 Diamond Blvd,Suite 180,Concord,CA,94520,1,TRU,37.9759761,-122.0666486
+8841,11300 Carolina Pl. Pkw,11300 Carolina Pl. Pkw,,Pineville,NC,28134,1,TRU,35.0795735,-80.8800645
+8842,2601 H-1 Dawson Rd.,2601 H-1 Dawson Rd.,,Albany,GA,31707,1,TRU,31.6176653,-84.2166746
+8843,1735 Galleria Blvd Suite 1003,1735 Galleria Blvd,Suite 1003,Franklin,TN,37064,1,TRU,35.963081,-86.8141159
+5807,1919 Arden Way,1919 Arden Way,,Sacramento,CA,95815,1,TRU,38.5980684,-121.4206899
+5806,8507 Bond Road Bldg A,8507 Bond Road Bldg A,,Elk Grove,CA,95624,1,TRU,38.4264222,-121.3894342
+8929,6251 Glenway Ave.,6251 Glenway Ave.,,Cincinnati,OH,45238,1,TRU,39.1431246,-84.6241034
+8847,7731 North Point Pkwy,7731 North Point Pkwy,,Alpharetta,GA,30022,1,TRU,34.040423,-84.3071967
+7502,375 East Ave Rhode Island S/c,375 East Ave,Rhode Island S/c,Warwick,RI,02886,1,TRU,41.7172343,-71.4768806
+9214,275 Clairton Blvd,275 Clairton Blvd,,West Mifflin,PA,15122,1,TRU,40.3378318,-79.9490656
+9210,317 Boardman Poland Rd,317 Boardman Poland Rd,,Boardman,OH,44512,1,TRU,41.023132,-80.6523509
+8818,5555 Whittlesey Blvd,5555 Whittlesey Blvd,,Columbus,GA,31907,1,TRU,32.5462065,-84.9447444
+7103,8174 Vineland Ave Orlando Vineland Outlet,8174 Vineland Ave,Orlando Vineland Outlet,Orlando,FL,32821,1,TRU,28.387364,-81.490651
+6867,6170 W. Grand Ave Gurnee Mills Mall,6170 W. Grand Ave,Gurnee Mills Mall,Gurnee,IL,60031,1,TRU,42.389931,-87.9599
+8851,3000 Watson Blvd,3000 Watson Blvd,,Warner Robins,GA,31093,1,TRU,32.6180338,-83.6913871
+8919,2292 Elida Rd.,2292 Elida Rd.,,Lima,OH,45805,1,TRU,40.7627035,-84.1460955
+7068,1 Premium Outlets Blvd. Wrentham Village Outlet,1 Premium Outlets Blvd.,Wrentham Village Outlet,Wrentham,MA,02093,1,TRU,42.0381775,-71.3524352
+7067,1 Premium Outlets Blvd. Jersey Shore Outlets,1 Premium Outlets Blvd.,Jersey Shore Outlets,Tinton Falls,NJ,07753,1,TRU,40.224152,-74.094329
+7066,4951 International Dr Orlando Idrive Outlet,4951 International Dr,Orlando Idrive Outlet,Orlando,FL,32819,1,TRU,28.4746886,-81.4513577
+7064,8016 Cooper Avenue The Shops At Atlas Park,8016 Cooper Avenue,The Shops At Atlas Park,Glendale,NY,11385,1,TRU,40.7086697,-73.8693666
+7063,500 Outlet Mall Road St. Augustine Outlet,500 Outlet Mall Road,St. Augustine Outlet,Saint Augustine,FL,32084,1,TRU,29.9266595,-81.4124838
+7061,5000 Arizona Mills Cir Arizona Mills,5000 Arizona Mills Cir,Arizona Mills,Tempe,AZ,85282,1,TRU,33.3830454,-111.9644722
+7060,3650 W M. L. K. Jr Blvd,3650 W M. L. K. Jr Blvd,,Los Angeles,CA,90008,1,TRU,34.0182397,-118.3467675
+9586,220 Thf Boulevard.,220 Thf Boulevard.,,Chesterfield,MO,63005-1136,1,BRU,38.665899,-90.598474
+9587,8801 University Ave,8801 University Ave,,Clive,IA,50325,1,BRU,41.6016719,-93.7399857
+7816,6101 Slide Road,6101 Slide Road,,Lubbock,TX,79414,1,TRU,33.5383198,-101.9209415
+7817,4111 South Cooper Stree,4111 South Cooper Stree,,Arlington,TX,76015,1,TRU,32.6802035,-97.1329583
+7814,5200 W. Waco Drive,5200 W. Waco Drive,,Waco,TX,76710,1,TRU,31.5173554,-97.1815438
+7815,2403 S Soncy Rd.,2403 S Soncy Rd.,,Amarillo,TX,79121,1,TRU,35.1857168,-101.935782
+7812,170 E. Stacy Road Building 2250,170 E. Stacy Road,Building 2250,Allen,TX,75002,1,TRU,33.1260515,-96.6551654
+7813,7730 N. Macarthur Blvd,7730 N. Macarthur Blvd,,Irving,TX,75063,1,TRU,32.9116962,-96.9563155
+7811,2121 N. W. 138th Street,2121 N. W. 138th Street,,Oklahoma City,OK,73134,1,TRU,35.6128391,-97.5507319
+9207,7723 Mentor Ave,7723 Mentor Ave,,Mentor,OH,44060,1,TRU,41.6613445,-81.3651488
+7818,4239 E. Mccain Blvd.,4239 E. Mccain Blvd.,,North Little Rock,AR,72117,1,TRU,34.7905826,-92.2200292
+7819,3109 Loop 250 Frontage,3109 Loop 250 Frontage,,Midland,TX,79705-3230,1,TRU,32.0326645,-102.1258668
+5170,200 Tanger Outlet Blvd,200 Tanger Outlet Blvd,,Pooler,GA,31322,1,TRU,32.1343987,-81.2433679
+5508,11200 Broadway Street Pearland Town Center,11200 Broadway Street,Pearland Town Center,Pearland,TX,77584-0157,1,TRU,29.5523062,-95.3938858
+9588,18182 Gulf Freeway,18182 Gulf Freeway,,Friendswood,TX,77546-2722,1,BRU,29.5539383,-95.1581093
+6006,9555 N. Milwaukee Ave.,9555 N. Milwaukee Ave.,,Niles,IL,60714,1,TRU,42.0539444,-87.8364584
+6004,8148 S. Cicero Ave.,8148 S. Cicero Ave.,,Burbank,IL,60459,1,TRU,41.7444691,-87.7423444
+6005,9200 W. North Ave.,9200 W. North Ave.,,Melrose Park,IL,60160,1,TRU,41.9086548,-87.8537684
+6002,2601 West Lake Ave,2601 West Lake Ave,,Peoria,IL,61615-3777,1,TRU,40.7406743,-89.6344525
+6003,2701 Veterans Parkway,2701 Veterans Parkway,,Springfield,IL,62704,1,TRU,39.7692136,-89.709276
+6008,1703 East Empire,1703 East Empire,,Bloomington,IL,61701,1,TRU,40.4872712,-88.950274
+6009,1111 East Golf Road,1111 East Golf Road,,Schaumburg,IL,60173-4507,1,TRU,42.049332,-88.0515721
+8710,4983 South Cleveland Av,4983 South Cleveland Av,,Fort Myers,FL,33907,1,TRU,26.58708,-81.8696712
+8712,3195 Pga. Blvd.,3195 Pga. Blvd.,,Palm Beach Gardens,FL,33410,1,TRU,26.8438459,-80.0866858
+8715,8789 Sw 117th Ave,8789 Sw 117th Ave,,Miami,FL,33183,1,TRU,25.6870195,-80.3837835
+8716,601 Congress Ave,601 Congress Ave,,Boynton Beach,FL,33426,1,TRU,26.5341181,-80.0921404
+8718,2455 Intl Speedway Blvd,2455 Intl Speedway Blvd,,Daytona Beach,FL,32114,1,TRU,29.1787049,-81.0776585
+8719,Carretera #2 Km 159.0,Carretera #2 Km 159.0,,Mayaguez,PR,00680,1,TRU,18.161329,-67.146055
+8706,8101 West Broward Blvd,8101 West Broward Blvd,,Plantation,FL,33324,1,TRU,26.1222138,-80.2566218
+9270,3725 Washtenaw,3725 Washtenaw,,Ann Arbor,MI,48104,1,TRU,42.2581708,-83.6852843
+9271,34800 Warren Road,34800 Warren Road,,Westland,MI,48185,1,TRU,42.3415143,-83.3833149
+9273,220 North Telegraph Rd,220 North Telegraph Rd,,Pontiac,MI,48341,1,TRU,42.6419099,-83.3251722
+9274,43460 West Oaks Drive,43460 West Oaks Drive,,Novi,MI,48377,1,TRU,42.4946873,-83.4782924
+9275,2333 South Reynolds Rd,2333 South Reynolds Rd,,Toledo,OH,43614,1,TRU,41.5974743,-83.6628457
+9277,5500 Milan Rd,5500 Milan Rd,,Sandusky,OH,44870,1,TRU,41.4080543,-82.6612485
+9278,4235 24th Avenue,4235 24th Avenue,,Fort Gratiot,MI,48059,1,TRU,43.031843,-82.4583535
+9279,1360 S.holland-sylvania Rd,1360 S.holland-sylvania,Rd,Holland,OH,43528,1,BRU,41.6150239,-83.6860324
+6338,3540 48th St.,3540 48th St.,,Long Island City,NY,11101,1,TRU,40.7520822,-73.9170203
+5753,1751 Palm Beach Lks Blv W. Palm Beach Outlets,1751 Palm Beach Lks Blv,W. Palm Beach Outlets,West Palm Beach,FL,33401,1,TRU,26.7252751,-80.0870814
+5752,4401 North Ih 35 Round Rock Prem Outlet,4401 North Ih 35,Round Rock Prem Outlet,Round Rock,TX,78664,1,TRU,30.5664089,-97.6897003
+5751,1 Premium Outlets Blvd. Puerto Rico Outlets,1 Premium Outlets Blvd.,Puerto Rico Outlets,Barceloneta,PR,00617,1,TRU,18.4386764,-66.5408782
+6445,4869 Kietzke Lane,4869 Kietzke Lane,,Reno,NV,89509,1,BRU,39.4792121,-119.7990044
+5757,18521 Outlet Blvd. St. Louis Outlets,18521 Outlet Blvd.,St. Louis Outlets,Chesterfield,MO,63005-0018,1,TRU,38.6774618,-90.6613667
+6443,12 Mystic View Rd.,12 Mystic View Rd.,,Everett,MA,02149,1,BRU,42.3994986,-71.0682047
+5755,327 Opry Mills Drive Opry Mills,327 Opry Mills Drive,Opry Mills,Nashville,TN,37214,1,TRU,36.2046942,-86.6940226
+5754,4345 Camino De La Plaza Las Americas Outlet,4345 Camino De La Plaza,Las Americas Outlet,San Diego,CA,92173,1,TRU,32.54411,-117.039201
+8023,3551 9th Street S.w.,3551 9th Street S.w.,,Puyallup,WA,98373,1,TRU,47.1582922,-122.3034021
+8020,640 S. 24th St. W.,640 S. 24th St. W.,,Billings,MT,59103,1,TRU,45.7581573,-108.5770107
+8021,2395 E. 17th Street,2395 E. 17th Street,,Idaho Falls,ID,83401,1,TRU,43.4834517,-111.9866261
+8026,1401 East Washington Av,1401 East Washington Av,,Union Gap,WA,98903,1,TRU,46.5715315,-120.4821985
+8027,15505 E. Broadway,15505 E. Broadway,,Veradale,WA,99037-9251,1,TRU,47.6655792,-117.1957311
+6448,1856 Catawba Vly Blvd Hickory Ridge Shopping,1856 Catawba Vly Blvd,Hickory Ridge Shopping,Hickory,NC,28602-4145,1,BRU,35.7012938,-81.3105386
+5618,2550 Canyon Springs Pk Canyon Crossings,2550 Canyon Springs Pk,Canyon Crossings,Riverside,CA,92507,1,TRU,33.9423528,-117.2893871
+5619,12450 Amargosa Road,12450 Amargosa Road,,Victorville,CA,92392,1,TRU,34.4773664,-117.3434343
+8846,3900 Atlanta Hwy,3900 Atlanta Hwy,,Athens,GA,30606,1,TRU,33.9411933,-83.4734401
+5613,2975 Johnson Drive,2975 Johnson Drive,,Ventura,CA,93004,1,TRU,34.246633,-119.196026
+5610,6245 Topanga Canyon Blv,6245 Topanga Canyon Blv,,Woodland Hills,CA,91367,1,TRU,34.184133,-118.6068856
+5611,10391 Magnolia Ave,10391 Magnolia Ave,,Riverside,CA,92505,1,TRU,33.9123337,-117.4639899
+6561,1764 S. Signal Butte Rd,1764 S. Signal Butte Rd,,Mesa,AZ,85209,1,BRU,33.3827803,-111.6028893
+6560,4000 Oxford Dr.,4000 Oxford Dr.,,Bethel Park,PA,15102,1,BRU,40.34659,-80.05065
+6563,2205 Gallatin Pike Nort,2205 Gallatin Pike Nort,,Madison,TN,37115,1,BRU,36.3037117,-86.6878013
+6562,7001 Fayettville Rd,7001 Fayettville Rd,,Durham,NC,27713-9643,1,BRU,35.9014178,-78.9370063
+9573,3500 Sisk Road,3500 Sisk Road,,Modesto,CA,95356,1,BRU,37.6892474,-121.0584358
+9572,19500 Alderwood Mall Pw,19500 Alderwood Mall Pw,,Lynnwood,WA,98036,1,BRU,47.8218177,-122.2721931
+9571,9650 S. East 82 Avenue,9650 S. East 82 Avenue,,Portland,OR,97266,1,BRU,45.4524921,-122.5771081
+6311,117 Old Country Rd,117 Old Country Rd,,Carle Place,NY,11514,1,TRU,40.7445596,-73.6147311
+9577,1731 Bell Isle Blvd,1731 Bell Isle Blvd,,Oklahoma City,OK,73118,1,BRU,35.5263231,-97.5379436
+9576,12750 Elm Creek Blvd N.,12750 Elm Creek Blvd N.,,Maple Grove,MN,55369,1,BRU,45.096916,-93.4427654
+9575,3555 Citadel Drive Sout,3555 Citadel Drive Sout,,Colorado Springs,CO,80909-5311,1,BRU,38.8404994,-104.7615272
+9574,7805 Sw Dartmouth Road,7805 Sw Dartmouth Road,,Tigard,OR,97223,1,BRU,45.4360358,-122.7554592
+9579,7155 Business Center Dr,7155 Business Center Dr,,Highlands Ranch,CO,80130-3698,1,BRU,39.5611377,-104.906223
+7532,1460 Pleasant Valley Rd,1460 Pleasant Valley Rd,,Manchester,CT,06040,1,TRU,41.8060693,-72.5606624
+7508,1686 Boston Road,1686 Boston Road,,Springfield,MA,01129,1,TRU,42.14498,-72.4884857
+6442,3725 Carpenter Rd,3725 Carpenter Rd,,Ypsilanti,MI,48197,1,BRU,42.2370475,-83.6768906
+6028,5555 Town Line Rd.,5555 Town Line Rd.,,Vernon Hills,IL,60061,1,TRU,42.2384551,-87.9535516
+8836,3405 Clemson Blvd.,3405 Clemson Blvd.,,Anderson,SC,29621,1,TRU,34.5457669,-82.6708402
+6305,581 Nj-18,581 Nj-18,,East Brunswick,NJ,08816,1,TRU,40.4356659,-74.3922513
+9092,521 South Fork Ave Sw North Bend Outlets,521 South Fork Ave Sw,North Bend Outlets,North Bend,WA,98045,1,TRU,47.490978,-121.795576
+8017,8600 King Street,8600 King Street,,Anchorage,AK,99515,1,TRU,61.1428401,-149.8802011
+8329,201 Franklin Mills Circ,201 Franklin Mills Circ,,Philadelphia,PA,19154,1,TRU,40.0811072,-74.9640917
+8328,103 East Swedesford Rd,103 East Swedesford Rd,,Exton,PA,19341,1,TRU,40.0355415,-75.630684
+8016,1325 Se Everett Mall Wy,1325 Se Everett Mall Wy,,Everett,WA,98208,1,TRU,47.9143001,-122.2155875
+8327,4476 Blackhorse Pike,4476 Blackhorse Pike,,Mays Landing,NJ,08330,1,TRU,39.4521202,-74.6499727
+8326,1430 Harrisburg Pike,1430 Harrisburg Pike,,Lancaster,PA,17601,1,TRU,40.0617744,-76.339653
+8320,1061 N. Dupont Hwy.,1061 N. Dupont Hwy.,,Dover,DE,19901,1,TRU,39.1863741,-75.5342765
+8323,421 Lycoming Mall Circl,421 Lycoming Mall Circl,,Pennsdale,PA,17756,1,TRU,41.2432036,-76.8253275
+8322,100 Welsh Road,100 Welsh Road,,Horsham,PA,19044,1,TRU,40.1583997,-75.1437355
+5822,43756 Christy Street,43756 Christy Street,,Fremont,CA,94538,1,TRU,37.5043789,-121.9668601
+8888,7220 Rivers Avenue,7220 Rivers Avenue,,North Charleston,SC,29406-4066,1,BRU,32.9343708,-80.0350067
+8889,7810 Poyner Pond Circle,7810 Poyner Pond Circle,,Raleigh,NC,27616,1,BRU,35.8637575,-78.5697363
+8884,13954 Metro Tech Drive,13954 Metro Tech Drive,,Chantilly,VA,20151,1,BRU,38.8970641,-77.425496
+8885,14173 Crossing Place,14173 Crossing Place,,Woodbridge,VA,22192,1,BRU,38.6531857,-77.2840193
+8880,2020 Gunbarrel Rd Suite 400,2020 Gunbarrel Rd,Suite 400,Chattanooga,TN,37421,1,BRU,35.0333085,-85.1513171
+8881,8062 Concord Mills Blvd,8062 Concord Mills Blvd,,Concord,NC,28027,1,BRU,35.3726849,-80.7156774
+8882,1336 Greenbrier Parkway,1336 Greenbrier Parkway,,Chesapeake,VA,23320,1,BRU,36.7734782,-76.2314938
+5689,86 East University Pkwy,86 East University Pkwy,,Orem,UT,84058,1,TRU,40.2717929,-111.6930699
+9525,6910 South Memorial,6910 South Memorial,,Tulsa,OK,74133,1,TRU,36.0631099,-95.8874145
+5685,5968 South State St.,5968 South State St.,,Murray,UT,84107,1,TRU,40.6414702,-111.8904099
+5684,2800 S. Mooney Blvd.,2800 S. Mooney Blvd.,,Visalia,CA,93277,1,TRU,36.3053283,-119.312088
+7537,244 Retail Way,244 Retail Way,,Williston,VT,05495-7271,1,TRU,44.443455,-73.1141279
+7535,217 Hartford Ave.,217 Hartford Ave.,,Bellingham,MA,02019,1,TRU,42.11269,-71.470786
+6440,14544 Racho Road,14544 Racho Road,,Taylor,MI,48180,1,BRU,42.2013289,-83.2500499
+5680,20120 Hawthorne Bouleva,20120 Hawthorne Bouleva,,Torrance,CA,90503,1,BRU,33.8490685,-118.3515779
+5683,4460 Ontario Mills Pkwy,4460 Ontario Mills Pkwy,,Ontario,CA,91764,1,TRU,34.0684245,-117.5536467
+5682,840 North 54th Street,840 North 54th Street,,Chandler,AZ,85226,1,TRU,33.3159406,-111.9708799
+6570,13315 Rittenhouse Drive,13315 Rittenhouse Drive,,Midlothian,VA,23112,1,BRU,37.4145834,-77.6419574
+9007,250 N. Kimball Avenue,250 N. Kimball Avenue,,Southlake,TX,76092,1,TRU,32.94277,-97.1189805
+7022,1350 Pecan Land Drive,1350 Pecan Land Drive,,Monroe,LA,71201,1,TRU,32.4976861,-92.0655057
+6677,901 Ave Of The Americas Manhattan Mall,901 Ave Of The Americas,Manhattan Mall,New York,NY,10001,1,TRU,40.7491792,-73.9892758
+7027,9801 Gateway Blvd West,9801 Gateway Blvd West,,El Paso,TX,79925,1,TRU,31.7613463,-106.3566096
+9522,5220 N. 27th Street,5220 N. 27th Street,,Lincoln,NE,68521,1,TRU,40.8637901,-96.6802813
+7534,492 State Rd. Dartmouth Towne Ctr,492 State Rd.,Dartmouth Towne Ctr,North Dartmouth,MA,02747,1,TRU,41.6411593,-70.9863503
+9523,1901 Bernadette Suite 101,1901 Bernadette,Suite 101,Columbia,MO,65203-5012,1,TRU,38.9663034,-92.368809
+9009,335 Summit Boulevard,335 Summit Boulevard,,Birmingham,AL,35243,1,TRU,33.451869,-86.7286975
+9008,6110 Shops Way,6110 Shops Way,,Northborough,MA,01532,1,TRU,42.2917947,-71.6744556
+7023,1175 E. County Line Rd.,1175 E. County Line Rd.,,Jackson,MS,39211,1,TRU,32.3982061,-90.133766
+6575,4999 Houston Rd.,4999 Houston Rd.,,Florence,KY,41042,1,BRU,39.0151357,-84.6412082
+6771,121 South Hope Ave La Cumbre Plaza,121 South Hope Ave,La Cumbre Plaza,Santa Barbara,CA,93105,1,TRU,34.4380621,-119.7480583
+8817,2200 Hamilton Place Blv Chattanooga,2200 Hamilton Place Blv,Chattanooga,Chattanooga,TN,37421,1,TRU,35.0374967,-85.1551545
+8816,801 Fairview Road,801 Fairview Road,,Asheville,NC,28803,1,BRU,35.5704176,-82.5028631
+8815,501 Roberts Court,501 Roberts Court,,Kennesaw,GA,30144,1,TRU,34.0103456,-84.5635938
+5673,510 North Stephanie Str,510 North Stephanie Str,,Henderson,NV,89014,1,BRU,36.0597013,-115.0439191
+5756,915 Ridgeway Parkway Outlet Shoppes Atlanta,915 Ridgeway Parkway,Outlet Shoppes Atlanta,Woodstock,GA,30188,1,TRU,34.1201198,-84.5262444
+8812,2918 Turner Hill Road,2918 Turner Hill Road,,Lithonia,GA,30058-2526,1,TRU,33.698236,-84.0878429
+8811,2205 Pleasant Hill Rd,2205 Pleasant Hill Rd,,Duluth,GA,30096,1,TRU,33.9605914,-84.1371456
+8810,8009 Kingston Pike,8009 Kingston Pike,,Knoxville,TN,37919,1,TRU,35.9270526,-84.0464048
+5625,1008a Industrial Blvd,1008a Industrial Blvd,,Chula Vista,CA,91911,1,TRU,32.6111368,-117.0897175
+8819,7171 N Davis Hwy,7171 N Davis Hwy,,Pensacola,FL,32504,1,TRU,30.4971476,-87.2246494
+7026,5700 Johnston St.,5700 Johnston St.,,Lafayette,LA,70506,1,TRU,30.1759526,-92.0784974
+8928,3411 James Sanders Blvd,3411 James Sanders Blvd,,Paducah,KY,42002,1,TRU,37.0818682,-88.6858187
+8749,5305 Airport/ Pulling R,5305 Airport/ Pulling R,,Naples,FL,34109,1,TRU,26.2126517,-81.7690284
+8747,809 East 23rd St,809 East 23rd St,,Panama City,FL,32401,1,TRU,30.1908517,-85.6474397
+8746,1200b N. Saint Augustin Valdosta,1200b N. Saint Augustin,Valdosta,Valdosta,GA,31602,1,TRU,30.8403931,-83.3260447
+8745,101 Town Ctr Blvd,101 Town Ctr Blvd,,Sanford,FL,32771,1,TRU,28.8092988,-81.3337333
+8744,330 Brandon Town Ctr Dr #330,330 Brandon Town Ctr Dr,#330,Brandon,FL,33511,1,TRU,27.9370199,-82.328292
+8743,12235 Pines Blvd.,12235 Pines Blvd.,,Pembroke Pines,FL,33026,1,TRU,26.0093764,-80.3111165
+9241,6655 Strip Ave Nw,6655 Strip Ave Nw,,North Canton,OH,44720,1,BRU,40.8775886,-81.4350211
+8740,1275 W. New Haven Ave.,1275 W. New Haven Ave.,,Melbourne,FL,32904,1,TRU,28.0777763,-80.6421659
+7536,3491 Berlin Turnpike,3491 Berlin Turnpike,,Newington,CT,06111,1,TRU,41.6507158,-72.7299328
+5655,660 W. Huntington Drive,660 W. Huntington Drive,,Monrovia,CA,91016,1,TRU,34.1390294,-118.0135413
+7094,300 Tanger Blvd Tanger Branson Outlets,300 Tanger Blvd,Tanger Branson Outlets,Branson,MO,65616,1,TRU,36.6459919,-93.2660236
+7028,801 S Mesa Hills Dr,801 S Mesa Hills Dr,,El Paso,TX,79912,1,TRU,31.8178875,-106.5402543
+7093,5205 Airway Blvd Tanger Memphis,5205 Airway Blvd,Tanger Memphis,Southaven,MS,38671,1,TRU,34.9362137,-89.9915424
+7159,651 Kapkowski Road Jersey Gardens Outlet,651 Kapkowski Road,Jersey Gardens Outlet,Elizabeth,NJ,07201,1,TRU,40.6599348,-74.1715601
+7091,1611 Haan Rd Freedom Crossing,1611 Haan Rd,Freedom Crossing,Fort Bliss,TX,79906,1,TRU,31.8174884,-106.4292191
+9562,1220 Town East Blvd,1220 Town East Blvd,,Mesquite,TX,75150,1,BRU,32.8096656,-96.6128824
+5777,2200 Eastridge Loop Eastridge Mall,2200 Eastridge Loop,Eastridge Mall,San Jose,CA,95122,1,TRU,37.3252777,-121.8141126
+5829,600 Francisco Blvd.,600 Francisco Blvd.,,San Rafael,CA,94901,1,TRU,37.9635296,-122.514781
+6942,800 Steven Tanger Blvd Tangers Outlets,800 Steven Tanger Blvd,Tangers Outlets,Commerce,GA,30529,1,TRU,34.25181,-83.470642
+9564,14680 S. Flaming Rd.,14680 S. Flaming Rd.,,Olathe,KS,66061,1,TRU,38.8620423,-94.8192589
+9565,3600 Lindbergh Blvd.,3600 Lindbergh Blvd.,,Sunset Hills,MO,63127,1,TRU,38.5545369,-90.4055199
+9508,5821 Sue Mandy Drive,5821 Sue Mandy Drive,,Saint Peters,MO,63376,1,TRU,38.79705,-90.625033
+9566,4990 Dublin Boulevard,4990 Dublin Boulevard,,Dublin,CA,94568,1,BRU,37.7054982,-121.8863238
+9502,13920 East 40 Highway,13920 East 40 Highway,,Independence,MO,64055-5860,1,TRU,39.0373297,-94.4170973
+9503,11620 West 95th Street,11620 West 95th Street,,Overland Park,KS,66214,1,TRU,38.959546,-94.7204281
+8108,549 S. Chillicothe Rd Aurora Farms Outlets,549 S. Chillicothe Rd,Aurora Farms Outlets,Aurora,OH,44202,1,TRU,41.301725,-81.3431109
+9504,2190 Wanamaker Road,2190 Wanamaker Road,,Topeka,KS,66614,1,TRU,39.0266819,-95.7614664
+7530,1070 Ma-132,1070 Ma-132,,Hyannis,MA,02601,1,TRU,41.6749476,-70.3064531
+6489,2906 Market Place,2906 Market Place,,Onalaska,WI,54650,1,TRU,43.8780548,-91.1868936
+5658,2600 Rockwood Ave.,2600 Rockwood Ave.,,Calexico,CA,92231,1,TRU,32.7001577,-115.4966728
+5659,25362 El Paseo Road,25362 El Paseo Road,,Mission Viejo,CA,92691,1,TRU,33.591878,-117.6727807
+6951,239 Tanger Drive Tanger Outlets,239 Tanger Drive,Tanger Outlets,Williamsburg,IA,52361,1,TRU,41.690907,-92.003932
+6480,1822 South Road,1822 South Road,,Wappingers Falls,NY,12590,1,BRU,41.614467,-73.9123846
+6481,17 Us Route Nine South,17 Us Route Nine South,,Manalapan,NJ,07726,1,BRU,40.2877701,-74.2986166
+5652,9139 E Talking Stick Wy,9139 E Talking Stick Wy,,Scottsdale,AZ,85250,1,TRU,33.5364628,-111.8839878
+5653,1100 E. 30th Street,1100 E. 30th Street,,National City,CA,91950,1,TRU,32.6589283,-117.0876893
+5650,14705 Ocean Gate Ave,14705 Ocean Gate Ave,,Hawthorne,CA,90250,1,TRU,33.8974984,-118.3677253
+5651,1516 South Power Rd.,1516 South Power Rd.,,Mesa,AZ,85206,1,TRU,33.388528,-111.685755
+6356,100 Value Dr. Hudson Valley Mall,100 Value Dr.,Hudson Valley Mall,Kingston,NY,12401,1,TRU,41.97102,-73.985773
+6357,1350 Corporate Drive,1350 Corporate Drive,,Westbury,NY,11590,1,BRU,40.7427015,-73.5875654
+5750,800 Highway 400 South North Georgia Outlets,800 Highway 400 South,North Georgia Outlets,Dawsonville,GA,30534,1,TRU,34.3568802,-84.0481059
+6355,1151 Old Country Rd.,1151 Old Country Rd.,,Riverhead,NY,11901,1,TRU,40.9297678,-72.6781839
+6352,970 White Plains Road,970 White Plains Road,,Bronx,NY,10473,1,TRU,40.8250659,-73.8591548
+6353,59 Connecticut Avenue,59 Connecticut Avenue,,Norwalk,CT,06851,1,TRU,41.1074462,-73.4211231
+6350,5801 Sunrise Highway,5801 Sunrise Highway,,Holbrook,NY,11741,1,TRU,40.7705302,-73.0639175
+7705,5207 Brodie Lane,5207 Brodie Lane,,Sunset Valley,TX,78745,1,BRU,30.2300026,-97.8161033
+6358,70 Us Highway 36,70 Us Highway 36,,Eatontown,NJ,07724,1,BRU,40.2894206,-74.0473795
+6359,955 Grape Street,955 Grape Street,,Whitehall,PA,18052,1,TRU,40.6354842,-75.4788897
+8005,12535 S. E. 82nd Ave,12535 S. E. 82nd Ave,,Clackamas,OR,97015,1,TRU,45.4317706,-122.5806863
+6191,7624 W Reno Avenue Otl Shopes Oklahoma Cty,7624 W Reno Avenue,Otl Shopes Oklahoma Cty,Oklahoma City,OK,73127,1,TRU,35.4622449,-97.6485851
+9438,5885 Gulf Freeway Tanger Outlet,5885 Gulf Freeway,Tanger Outlet,Texas City,TX,77590,1,TRU,29.4246973,-95.0583635
+6054,6050 Gurnee Mills Cir E,6050 Gurnee Mills Cir E,,Gurnee,IL,60031,1,TRU,42.3845815,-87.9528006
+6057,40 East Anthony Drive,40 East Anthony Drive,,Champaign,IL,61820,1,TRU,40.1357212,-88.2396522
+6051,2433 S Green Bay Rd,2433 S Green Bay Rd,,Racine,WI,53406,1,TRU,42.701838,-87.8518541
+6050,808 Apache Lane,808 Apache Lane,,Rochester,MN,55902,1,TRU,44.0056107,-92.473099
+8361,1308 West Patrick St,1308 West Patrick St,,Frederick,MD,21701,1,TRU,39.4171641,-77.4568533
+8360,1257 Carmia Way Chesterfield Mkt. Pl.,1257 Carmia Way,Chesterfield Mkt. Pl.,Richmond,VA,23235,1,TRU,37.5087554,-77.600307
+8363,6100 Dobbin Road,6100 Dobbin Road,,Columbia,MD,21045,1,TRU,39.1983161,-76.8106175
+8362,2301 Meadowbrook Mall R,2301 Meadowbrook Mall R,,Bridgeport,WV,26330-9706,1,TRU,39.3100927,-80.2785077
+8365,Rt. 541 & Cadillac Road,Rt. 541 & Cadillac Road,,Burlington,NJ,08016,1,TRU,40.0476484,-74.8387892
+8364,46300 Unit 100 Potomac Run Plaza,46300 Unit 100,Potomac Run Plaza,Sterling,VA,20164,1,TRU,39.0265364,-77.3976352
+8367,113 Grand Central Ave.,113 Grand Central Ave.,,Vienna,WV,26105,1,TRU,39.300102,-81.5488276
+5112,30 Mall Drive West Newport Center Mall,30 Mall Drive West,Newport Center Mall,Jersey City,NJ,07310,1,TRU,40.7271731,-74.0362091
+8369,12132 Jefferson Ave.,12132 Jefferson Ave.,,Newport News,VA,23602,1,TRU,37.1086792,-76.4917074
+6507,3505 S. 140th Plaza,3505 S. 140th Plaza,,Omaha,NE,68144,1,BRU,41.2270012,-96.1297841
+5641,15325 W. Mcdowell Rd,15325 W. Mcdowell Rd,,Goodyear,AZ,85338,1,TRU,33.4625609,-112.3892858
+6505,114 Commerce Lane,114 Commerce Lane,,Fairview Heights,IL,62208,1,BRU,38.5985384,-89.9899074
+9229,135 Danohoe Road,135 Danohoe Road,,Greensburg,PA,15601,1,TRU,40.3059592,-79.5080591
+7831,2918 E. Texas St. Pierre-bossier Mall,2918 E. Texas St.,Pierre-bossier Mall,Bossier City,LA,71111-3202,1,TRU,32.5281989,-93.7072635
+9227,654 Hylan Drive,654 Hylan Drive,,Rochester,NY,14623,1,TRU,43.084496,-77.6273085
+9226,3464 Mc Kinley Parkway,3464 Mc Kinley Parkway,,Hamburg,NY,14075,1,TRU,42.7909276,-78.8119845
+9225,1530 Ridge Road West,1530 Ridge Road West,,Rochester,NY,14615,1,TRU,43.2074819,-77.6678202
+9224,4135 Transit Road,4135 Transit Road,,Williamsville,NY,14221,1,TRU,42.9600469,-78.6951838
+9591,1370 Western Blvd,1370 Western Blvd,,Jacksonville,NC,28541,1,TRU,34.7883716,-77.4012722
+9590,1003 Bonita Lakes Cir.,1003 Bonita Lakes Cir.,,Meridian,MS,39301,1,TRU,32.3609475,-88.6752282
+9221,27048 Lorain Rd,27048 Lorain Rd,,North Olmsted,OH,44070,1,TRU,41.418047,-81.9217931
+6554,3938 Horton,3938 Horton,,Emeryville,CA,94608,1,BRU,37.8291917,-122.2869321
+6077,1038 Jackson Crossing,1038 Jackson Crossing,,Jackson,MI,49204,1,TRU,42.26785,-84.4266743
+6557,8181 Mira Mesa Blvd,8181 Mira Mesa Blvd,,San Diego,CA,92126,1,BRU,32.9103511,-117.1469835
+6550,4646 W. Kellogg,4646 W. Kellogg,,Wichita,KS,67209,1,BRU,37.675406,-97.3962611
+6551,8236 Tamarack Village,8236 Tamarack Village,,Woodbury,MN,55125,1,BRU,44.9394017,-92.9398714
+6552,2161 Zeier Road,2161 Zeier Road,,Madison,WI,53704,1,BRU,43.1282551,-89.3011026
+6553,6104 N. Division St.,6104 N. Division St.,,Spokane,WA,99207,1,BRU,47.7137462,-117.4094353
+6414,12012 Cherry Hill Rd,12012 Cherry Hill Rd,,Silver Spring,MD,20904,1,BRU,39.0530365,-76.9573771
+6558,775 Serramonte Blvd,775 Serramonte Blvd,,Colma,CA,94014,1,BRU,37.6732488,-122.46138
+6410,250 East Route 59,250 East Route 59,,Nanuet,NY,10954,1,BRU,41.0953926,-74.0008619
+7835,3701 Ellison Rd. N.w.,3701 Ellison Rd. N.w.,,Albuquerque,NM,87114,1,TRU,35.2079246,-106.6535513
+8814,3424 Wrightsboro Road,3424 Wrightsboro Road,,Augusta,GA,30909,1,TRU,33.4663632,-82.0773432
+5647,1100 South Harbor Blvd,1100 South Harbor Blvd,,Fullerton,CA,92832,1,TRU,33.8615144,-117.9227364
+8838,201 Buyers Drive,201 Buyers Drive,,Dothan,AL,36303-2285,1,TRU,31.2516682,-85.4263178
+8314,10 Geoffrey Drive,10 Geoffrey Drive,,Newark,DE,19702,1,TRU,39.6868506,-75.6544672
+8315,6391 Carlisle Pike,6391 Carlisle Pike,,Mechanicsburg,PA,17050,1,TRU,40.2477821,-77.0032845
+8316,8401 Mike Shapiro Dr.,8401 Mike Shapiro Dr.,,Clinton,MD,20735,1,TRU,38.7736663,-76.8841377
+8310,1410 Kenneth Rd,1410 Kenneth Rd,,York,PA,17408,1,TRU,39.9734438,-76.7669025
+8311,2345 East Lincoln Highw,2345 East Lincoln Highw,,Langhorne,PA,19047,1,TRU,40.178421,-74.875887
+8312,1154 West Baltimore Pike,1154 West,Baltimore Pike,Media,PA,19063,1,TRU,39.9127193,-75.4351578
+6630,3515 Long Beach Road The Sands Shopping Cent,3515 Long Beach Road,The Sands Shopping Cent,Oceanside,NY,11572,1,TRU,40.6240905,-73.6388103
+8319,600 N. Frederick Rd.,600 N. Frederick Rd.,,Gaithersburg,MD,20877,1,TRU,39.1497807,-77.2105212
+9293,295 Center Drive,295 Center Drive,,Vernon Hills,IL,60061,1,BRU,42.2431219,-87.9551488
+9290,4140 Coldwater Road,4140 Coldwater Road,,Fort Wayne,IN,46805,1,BRU,41.1158808,-85.1337795
+6373,130 Consumers Square,130 Consumers Square,,Mays Landing,NJ,08330,1,BRU,39.4524874,-74.6290259
+5832,700 A Onstott Road,700 A Onstott Road,,Yuba City,CA,95993,1,TRU,39.1331299,-121.6374339
+9294,1335 East 79th Street,1335 East 79th Street,,Merrillville,IN,46410,1,BRU,41.473368,-87.3203463
+5645,12801 North Tatum Blvd.,12801 North Tatum Blvd.,,Phoenix,AZ,85032,1,TRU,33.6017233,-111.9765136
+5839,1300 Biddle Road,1300 Biddle Road,,Medford,OR,97504,1,TRU,42.3424876,-122.8719138
+7504,416 Southbridge Street,416 Southbridge Street,,Auburn,MA,01501,1,TRU,42.2022456,-71.8398008
+7505,1 Worcester Rd,1 Worcester Rd,,Framingham,MA,01701,1,TRU,42.3011922,-71.3958013
+8859,3908 W. Hillsborough Ave,3908 W. Hillsborough,Ave,Tampa,FL,33614,1,BRU,27.9943351,-82.5089228
+8911,1400 Gemini Place Rd,1400 Gemini Place Rd,,Columbus,OH,43240,1,TRU,40.150306,-82.9805383
+8916,2859 Miamisburg Centerville Rd,2859 Miamisburg,Centerville Rd,Miamisburg,OH,45342,1,TRU,39.6400932,-84.2285464
+8917,3220 Nicholasville Rd,3220 Nicholasville Rd,,Lexington,KY,40503,1,TRU,37.9932111,-84.5206247
+8914,4900 Shelbyville Road,4900 Shelbyville Road,,Saint Matthews,KY,40207,1,TRU,38.2485131,-85.6266259
+7503,Rts128/114 Northshore S/c,Rts128/114,Northshore S/c,Peabody,MA,01960,1,TRU,42.5386917,-70.947984
+8853,9365 The Landing Drive Suite B,9365 The Landing Drive,Suite B,Douglasville,GA,30135,1,TRU,33.728057,-84.739689
+8852,2780 Martha Berry Hwy,2780 Martha Berry Hwy,,Rome,GA,30161,1,TRU,34.3030856,-85.1747371
+8918,318 N. Green River Road,318 N. Green River Road,,Evansville,IN,47715,1,TRU,37.9807808,-87.496375
+8850,969 E Barnes Xing Rd,969 E Barnes Xing Rd,,Tupelo,MS,38804,1,TRU,34.3147373,-88.7014893
+8857,15625 North Kendall Dr,15625 North Kendall Dr,,Miami,FL,33196,1,BRU,25.685429,-80.4443935
+7509,275 Union St,275 Union St,,Waterbury,CT,06706,1,TRU,41.5534465,-73.031974
+8855,4225 Washington Rd.,4225 Washington Rd.,,Evans,GA,30809,1,BRU,33.5276741,-82.1185405
+8854,1875 Greers Chapel Rd,1875 Greers Chapel Rd,,Kennesaw,GA,30144,1,BRU,34.0000457,-84.5815254
+5633,1240 Auto Parkway South,1240 Auto Parkway South,,Escondido,CA,92029,1,TRU,33.110927,-117.0976553
+9561,13710 Dallas Parkway,13710 Dallas Parkway,,Dallas,TX,75240,1,BRU,32.934111,-96.8206615
+8835,140 Columbiana Dr.,140 Columbiana Dr.,,Columbia,SC,29212,1,TRU,34.0756859,-81.157557
+7058,1645 Parkway Tanger Sevierville,1645 Parkway,Tanger Sevierville,Sevierville,TN,37862,1,TRU,35.8333435,-83.5708664
+7059,6800 Oxon Hill Rd Tanger National Harbor,6800 Oxon Hill Rd,Tanger National Harbor,Oxon Hill,MD,20745,1,TRU,38.7952682,-77.0008077
+7050,25024 Katy Mills Drive,25024 Katy Mills Drive,,Katy,TX,77494-4422,1,TRU,29.7811129,-95.8033923
+5809,2700 Sisk Road,2700 Sisk Road,,Modesto,CA,95350,1,TRU,37.6796567,-121.0470415
+6642,1150 Kuala St Pearl City Gateway,1150 Kuala St,Pearl City Gateway,Pearl City,HI,96782,1,BRU,21.40064,-157.9750477
+5514,3301 Coral Way Miracle Marketplace,3301 Coral Way,Miracle Marketplace,Miami,FL,33145,1,TRU,25.7503882,-80.2497285
+5808,7800 Greenback Lane,7800 Greenback Lane,,Citrus Heights,CA,95610,1,TRU,38.6769656,-121.2755439
+5663,801 West 32nd Street,801 West 32nd Street,,Yuma,AZ,85365-7934,1,TRU,32.6681921,-114.6291295
+7803,2871 Preston Rd Shafer Plaza,2871 Preston Rd,Shafer Plaza,Frisco,TX,75034,1,TRU,33.1029659,-96.8079077
+7802,7606 West Freeway,7606 West Freeway,,White Settlement,TX,76108,1,TRU,32.7389619,-97.4480583
+7805,2063 N. Town East Blvd #2100,2063 N. Town East Blvd,#2100,Mesquite,TX,75150,1,TRU,32.8105136,-96.6328805
+7804,1119 S. E. 66th Street,1119 S. E. 66th Street,,Oklahoma City,OK,73149,1,TRU,35.400339,-97.4918453
+7807,7400 Indian School Road,7400 Indian School Road,,Albuquerque,NM,87110,1,TRU,35.1011654,-106.5628261
+7809,1319 West Pipeline Rd,1319 West Pipeline Rd,,Hurst,TX,76053,1,TRU,32.8222148,-97.200509
+7808,428 E. Fm 1382,428 E. Fm 1382,,Cedar Hill,TX,75104,1,TRU,32.5909006,-96.938154
+8872,2075 Old Fort Parkway,2075 Old Fort Parkway,,Murfreesboro,TN,37129,1,TRU,35.8454076,-86.4288265
+5802,3520 West Shaw Ave,3520 West Shaw Ave,,Fresno,CA,93711,1,TRU,36.8093469,-119.8566918
+5681,11460 Porter Ranch Dr,11460 Porter Ranch Dr,,Northridge,CA,91326,1,TRU,34.277321,-118.5696487
+6010,1434 Butterfield Road,1434 Butterfield Road,,Downers Grove,IL,60515,1,TRU,41.8357932,-88.0203786
+6013,6011 North Grape Road,6011 North Grape Road,,Mishawaka,IN,46545,1,TRU,41.7150739,-86.1884941
+6012,1500 75th St.,1500 75th St.,,Downers Grove,IL,60516,1,TRU,41.7530173,-88.0205512
+6015,2020 East Lincoln Highw,2020 East Lincoln Highw,,Merrillville,IN,46410,1,TRU,41.4731517,-87.3113553
+6017,4070 Fox Valley Ctr Dr,4070 Fox Valley Ctr Dr,,Aurora,IL,60504,1,TRU,41.7605918,-88.2174706
+6016,7451 West Cermak Road,7451 West Cermak Road,,North Riverside,IL,60546,1,TRU,41.8486841,-87.8073606
+6019,3300 N Western Ave,3300 N Western Ave,,Chicago,IL,60618,1,TRU,41.9413669,-87.6899035
+6018,3128 Voyager Lane,3128 Voyager Lane,,Joliet,IL,60435,1,TRU,41.5748839,-88.1597126
+6390,30-02 Whitestone Expy,30-02 Whitestone Expy,,Flushing,NY,11356,1,TRU,40.7719815,-73.8350012
+6394,2789 Paper Mill Road,2789 Paper Mill Road,,Reading,PA,19610,1,BRU,40.3612364,-75.9873316
+8703,8325 South Dixie Highwa,8325 South Dixie Highwa,,Miami,FL,33143,1,TRU,25.69255,-80.3017111
+8702,450 Fl-7,450 Fl-7,,West Palm Beach,FL,33414,1,TRU,26.6667459,-80.2008069
+8707,1645 Northwest 107th Av,1645 Northwest 107th Av,,Miami,FL,33172,1,TRU,25.7891547,-80.368122
+5805,5000 Smithridge Drive,5000 Smithridge Drive,,Reno,NV,89502,1,TRU,39.4785889,-119.787846
+8705,500 West 49th Street,500 West 49th Street,,Hialeah,FL,33012,1,TRU,25.865435,-80.2931739
+6393,21300 Signal Hill Plaza,21300 Signal Hill Plaza,,Sterling,VA,20164,1,BRU,39.0259479,-77.3894409
+8709,551 N. E. 167th Street,551 N. E. 167th Street,,North Miami Beach,FL,33162,1,TRU,25.9296982,-80.1897786
+5804,1330 Fitzgerald Drive,1330 Fitzgerald Drive,,Pinole,CA,94564,1,TRU,37.9849059,-122.3119958
+5811,6850 Amador Plaza Rd.,6850 Amador Plaza Rd.,,Dublin,CA,94568,1,TRU,37.7050179,-121.9304719
+9263,32700 John R. Road,32700 John R. Road,,Madison Heights,MI,48071,1,TRU,42.5326046,-83.1057992
+9262,14333 Eureka Road,14333 Eureka Road,,Southgate,MI,48195,1,TRU,42.1983072,-83.1979838
+9260,4923 28th Street S.e.,4923 28th Street S.e.,,Grand Rapids,MI,49512,1,BRU,42.9140116,-85.5463073
+9267,5025 Monroe Street,5025 Monroe Street,,Toledo,OH,43623,1,TRU,41.6973436,-83.6431036
+9266,32070 Gratiot Avenue,32070 Gratiot Avenue,,Roseville,MI,48066,1,TRU,42.5331472,-82.9108259
+9265,29150 W. Seven Mile Rd,29150 W. Seven Mile Rd,,Livonia,MI,48152,1,TRU,42.4275718,-83.3338407
+9269,13801 Lakeside Circle,13801 Lakeside Circle,,Sterling Heights,MI,48313,1,TRU,42.625486,-82.9918155
+5605,3792 Ming Avenue,3792 Ming Avenue,,Bakersfield,CA,93309,1,TRU,35.3404558,-119.0455948
+5604,960 Lakes Drive,960 Lakes Drive,,West Covina,CA,91790,1,TRU,34.0710746,-117.9246581
+5607,4550 Meadows Lane,4550 Meadows Lane,,Las Vegas,NV,89107,1,TRU,36.171865,-115.202846
+6452,3700 William Penn Hwy,3700 William Penn Hwy,,Monroeville,PA,15146,1,BRU,40.43468,-79.7895174
+6455,395 Gateway Dr. Gateway Shopping Center,395 Gateway Dr.,Gateway Shopping Center,Brooklyn,NY,11239,1,BRU,40.6506491,-73.8706987
+6454,104 Bartlett Ave,104 Bartlett Ave,,Exton,PA,19341,1,BRU,40.0212272,-75.6265581
+5603,683 North Victory Blvd,683 North Victory Blvd,,Burbank,CA,91502,1,TRU,34.1802393,-118.3197435
+5602,16040 Sherman Way,16040 Sherman Way,,Van Nuys,CA,91406,1,TRU,34.2003131,-118.4828141
+6459,447 South Broadway,447 South Broadway,,Salem,NH,03079,1,BRU,42.7468744,-71.2012171
+8831,1715 Montgomery Hwy.,1715 Montgomery Hwy.,,Hoover,AL,35226-1215,1,TRU,33.3816737,-86.8037194
+5761,2747 Ne 193rd Street,2747 Ne 193rd Street,,Aventura,FL,33180,1,TRU,25.954533,-80.1457127
+6518,19 Backus Ave,19 Backus Ave,,Danbury,CT,06810,1,BRU,41.3756955,-73.4864282
+7522,105 Campenelli Industri,105 Campenelli Industri,,Brockton,MA,02301,1,TRU,42.0999076,-71.0518687
+5693,4430 Ontario Mills Pkwy,4430 Ontario Mills Pkwy,,Ontario,CA,91764,1,BRU,34.0683634,-117.5549068
+6510,2745 Ne 193rd St.,2745 Ne 193rd St.,,Aventura,FL,33180,1,BRU,25.9543687,-80.1455397
+6512,24440 Village Walk Pl.,24440 Village Walk Pl.,,Murrieta,CA,92562,1,BRU,33.5677139,-117.2113795
+5567,6800n 95th Ave #988 Tanger Outlets Glendale,6800n 95th Ave #988,Tanger Outlets Glendale,Glendale,AZ,85305,1,TRU,33.5334711,-112.2667164
+6515,4042 Riverdale Rd.,4042 Riverdale Rd.,,Ogden,UT,84405-1518,1,BRU,41.1899159,-111.9790306
+6516,106 E. University Pkwy,106 E. University Pkwy,,Orem,UT,84058,1,BRU,40.271747,-111.692545
+8346,4120 Portsmouth Blvd,4120 Portsmouth Blvd,,Chesapeake,VA,23321,1,TRU,36.8241539,-76.4129612
+7708,1309 W. Pipeline Rd,1309 W. Pipeline Rd,,Hurst,TX,76053,1,BRU,32.8222178,-97.1996347
+5691,1780 Woodland Park Dr.,1780 Woodland Park Dr.,,Layton,UT,84041,1,TRU,41.0861109,-111.9839767
+6309,5520 Sunrise Highway,5520 Sunrise Highway,,Massapequa,NY,11758,1,TRU,40.67565,-73.4348889
+6308,2875 Flatbush Ave,2875 Flatbush Ave,,Brooklyn,NY,11234,1,TRU,40.6011678,-73.9119974
+9548,10010 East 71st Street South,10010 East 71st Street,South,Tulsa,OK,74133,1,BRU,36.0595594,-95.8647226
+9549,8327 Tx-151,8327 Tx-151,,San Antonio,TX,78245,1,BRU,29.438469,-98.6512395
+9546,20280 Katy Freeway,20280 Katy Freeway,,Katy,TX,77449,1,BRU,29.787274,-95.7236436
+9547,380 Fm 1960 West,380 Fm 1960 West,,Houston,TX,77090,1,BRU,30.02123,-95.4366794
+9544,15555 Southwest Freeway,15555 Southwest Freeway,,Sugar Land,TX,77478,1,BRU,29.6024348,-95.6161458
+9545,5142 South Wadsworth,5142 South Wadsworth,,Littleton,CO,80123-2218,1,BRU,39.6224361,-105.0883776
+9542,420 East Roundgrove Rd,420 East Roundgrove Rd,,Lewisville,TX,75067,1,BRU,33.0034636,-96.979257
+6069,2800 Tittabawassee Road,2800 Tittabawassee Road,,Saginaw,MI,48603,1,TRU,43.4812098,-83.9712381
+9540,9505 E. County Line Rd,9505 E. County Line Rd,,Englewood,CO,80112-3501,1,TRU,39.5675484,-104.8790874
+9541,4441 Lemay Ferry Road,4441 Lemay Ferry Road,,Saint Louis,MO,63129-1757,1,BRU,38.5016871,-90.334904
+5694,4619 N Oracle Road,4619 N Oracle Road,,Tucson,AZ,85705,1,BRU,32.2904781,-110.9798993
+9081,1500 Se Devils Lake Rd Tanger Outlets,1500 Se Devils Lake Rd,Tanger Outlets,Lincoln City,OR,97367,1,TRU,44.9587207,-124.0105628
+8358,4943 Valley View Blvd.,4943 Valley View Blvd.,,Roanoke,VA,24012,1,TRU,37.3068984,-79.9681472
+8350,6711 Ritchie Hwy.,6711 Ritchie Hwy.,,Glen Burnie,MD,21061,1,TRU,39.1917369,-76.6109723
+8352,400 Military Highway,400 Military Highway,,Norfolk,VA,23502,1,TRU,36.8461025,-76.2090006
+8353,11861 West Broad Street,11861 West Broad Street,,Richmond,VA,23233,1,TRU,37.6520008,-77.6229236
+8354,8804 Pulaski Highway,8804 Pulaski Highway,,Baltimore,MD,21237,1,TRU,39.3388739,-76.4810421
+8356,6001 Kingstowne Village Parkway,6001 Kingstowne,Village Parkway,Alexandria,VA,22315,1,TRU,38.7679169,-77.1396051
+8357,2701 N. Mall Drive Suite 101,2701 N. Mall Drive,Suite 101,Virginia Beach,VA,23452,1,TRU,36.8194855,-76.0683428
+6424,5214 Sunrise Highway Sunrise Promenade,5214 Sunrise Highway,Sunrise Promenade,Massapequa Park,NY,11762,1,BRU,40.6761751,-73.4436089
+6425,5125 Jonestown Road,5125 Jonestown Road,,Harrisburg,PA,17112,1,BRU,40.3118508,-76.798822
+6426,975 Hanes Mall Blvd,975 Hanes Mall Blvd,,Winston-salem,NC,27103,1,BRU,36.0634996,-80.3153507
+8708,19525 South Dixie Highw,19525 South Dixie Highw,,Cutler Bay,FL,33157,1,TRU,25.5861775,-80.3615605
+9551,5590 Saint Louis Mills Blvd,5590 Saint Louis Mills,Blvd,Hazelwood,MO,63042-4421,1,BRU,38.787147,-90.4189952
+7158,620 Bluebird Ct Woodbury Common Outlets,620 Bluebird Ct,Woodbury Common Outlets,Central Valley,NY,10917,1,TRU,41.3143737,-74.125126
+6428,6001 Argyle Forest Blvd,6001 Argyle Forest Blvd,,Jacksonville,FL,32244,1,BRU,30.1955439,-81.7438012
+8892,1155 Mount Vernon Hwy Suite 300,1155 Mount Vernon Hwy,Suite 300,Dunwoody,GA,30338,1,BRU,33.9340476,-84.3500213
+8890,254 Harbison Blvd.,254 Harbison Blvd.,,Columbia,SC,29212,1,BRU,34.07087,-81.1589252
+7548,1025 Outlet Center Driv Site #270,1025 Outlet Center Driv,Site #270,Smithfield,NC,27577,1,TRU,35.5106202,-78.3124918
+7549,1 Mills Circle Site #716a,1 Mills Circle,Site #716a,Ontario,CA,91764,1,TRU,34.073032,-117.551621
+8832,2821 Guthrie Highway,2821 Guthrie Highway,,Clarksville,TN,37040,1,TRU,36.5909783,-87.2900438
+5815,2705 Santa Rosa Ave.,2705 Santa Rosa Ave.,,Santa Rosa,CA,95407,1,TRU,38.4113631,-122.7151601
+7543,3214 N John Young Pkwy The Loop Kissimmee,3214 N John Young Pkwy,The Loop Kissimmee,Kissimmee,FL,34741,1,TRU,28.346824,-81.420733
+8908,4585 Eastgate Blvd,4585 Eastgate Blvd,,Cincinnati,OH,45245-1201,1,TRU,39.1024129,-84.2739456
+7546,8225 Arroyo Circle Site #a027,8225 Arroyo Circle,Site #a027,Gilroy,CA,95020,1,TRU,37.021196,-121.5624101
+7547,12150 Beyer Road Site # F250,12150 Beyer Road,Site # F250,Birch Run,MI,48415,1,TRU,43.246683,-83.77755
+9212,67681 Mall Road,67681 Mall Road,,Saint Clairsville,OH,43950,1,TRU,40.0677497,-80.8623362
+6605,2601 W. Osceola Parkway,2601 W. Osceola Parkway,,Kissimmee,FL,34741,1,BRU,28.3444486,-81.4262413
+7019,1449 Bay Area Blvd,1449 Bay Area Blvd,,Webster,TX,77598,1,TRU,29.5372082,-95.1460651
+7016,3609 Veterans Memorial,3609 Veterans Memorial,,Metairie,LA,70002,1,TRU,30.0053886,-90.1626208
+7017,10780 North Mall Dr,10780 North Mall Dr,,Baton Rouge,LA,70809,1,TRU,30.3760723,-91.0589879
+7014,1220 Airline Road,1220 Airline Road,,Corpus Christi,TX,78412,1,TRU,27.7086521,-97.3614863
+7013,4815 I-10 E. Eastpoint,4815 I-10 E. Eastpoint,,Baytown,TX,77521,1,TRU,29.8050612,-94.9861974
+7010,4025 Capital Of Tx Hwy,4025 Capital Of Tx Hwy,,Austin,TX,78704,1,TRU,30.238218,-97.7975518
+7011,12901 Hwy 35 North Building 8,12901 Hwy 35 North,Building 8,Austin,TX,78753,1,TRU,30.4125687,-97.6711411
+9211,4822 N.w. Whipple Ave,4822 N.w. Whipple Ave,,Canton,OH,44718,1,TRU,40.8518008,-81.4220606
+8848,2600 Mcfarland Blvd E,2600 Mcfarland Blvd E,,Tuscaloosa,AL,35401,1,TRU,33.1850904,-87.5280626
+8823,1508b Wo Ezell Blvd,1508b Wo Ezell Blvd,,Spartanburg,SC,29301,1,TRU,34.9381486,-81.9897244
+8820,132 Pavilion Pkwy,132 Pavilion Pkwy,,Fayetteville,GA,30214,1,TRU,33.4786151,-84.4430052
+8826,8755 Sw 24th Street,8755 Sw 24th Street,,Miami,FL,33165,1,BRU,25.7490371,-80.3371852
+8827,429 Bel Air Blvd.,429 Bel Air Blvd.,,Mobile,AL,36606,1,TRU,30.6726253,-88.1173909
+9507,8801 University Ave,8801 University Ave,,Clive,IA,50325,1,TRU,41.6016719,-93.7399857
+8825,8050 Concord Mills Blvd,8050 Concord Mills Blvd,,Concord,NC,28027,1,TRU,35.3712006,-80.714653
+8828,3658 A- Airport Blvd,3658 A- Airport Blvd,,Mobile,AL,36608,1,BRU,30.6771078,-88.131126
+9215,2003 Cheryl Drive,2003 Cheryl Drive,,Pittsburgh,PA,15237,1,TRU,40.5369285,-80.0090446
+5153,23900 Hempstead Road Houston Premium Outlets,23900 Hempstead Road,Houston Premium Outlets,Cypress,TX,77433-6173,1,TRU,29.9962331,-95.7571312
+7081,3900 Bristol Street Suite B,3900 Bristol Street,Suite B,Santa Ana,CA,92704,1,TRU,33.6957388,-117.8878604
+7080,12845 Citrus Plaza Driv,12845 Citrus Plaza Driv,,Tampa,FL,33625,1,TRU,28.0642263,-82.5730741
+7083,400 South Wilson Blvd,400 South Wilson Blvd,,Sunbury,OH,43074,1,TRU,40.2599564,-82.9241344
+7082,2774 Livermore Outlets San Francisco Premium O,2774 Livermore Outlets,San Francisco Premium O,Livermore,CA,94551,1,TRU,37.696902,-121.842163
+7085,875 S. Grand Central Pk,875 S. Grand Central Pk,,Las Vegas,NV,89106,1,TRU,36.1634205,-115.1588431
+7084,22705 Clarksburg Rd,22705 Clarksburg Rd,,Clarksburg,MD,20871,1,TRU,39.2280325,-77.2875031
+6450,1 Worcester Rd Shoppers World Plaza,1 Worcester Rd,Shoppers World Plaza,Framingham,MA,01701,1,BRU,42.301709,-71.394932
+7089,3000 Grapevine Mill Pky Grapevine Mills,3000 Grapevine Mill Pky,Grapevine Mills,Grapevine,TX,76051,1,TRU,32.965993,-97.0427604
+7088,4015 I-35 South Tanger San Marcos Outle,4015 I-35 South,Tanger San Marcos Outle,San Marcos,TX,78666,1,TRU,29.825033,-97.987606
+8863,9626 Kingston Pike,9626 Kingston Pike,,Knoxville,TN,37922,1,BRU,35.9059023,-84.1056393
+6462,980 Bethlehem Pike,980 Bethlehem Pike,,Montgomeryville,PA,18936,1,BRU,40.2257057,-75.2361018
+7035,5404 San Bernardo Ave.,5404 San Bernardo Ave.,,Laredo,TX,78041,1,TRU,27.5493973,-99.5049316
+6494,221 Wade Road Extension,221 Wade Road Extension,,Latham,NY,12110,1,BRU,42.7575083,-73.768511
+6491,915 Hartford Tpke,915 Hartford Tpke,,Waterford,CT,06385,1,BRU,41.3830221,-72.1505347
+6490,10640 Trinity Parkway,10640 Trinity Parkway,,Stockton,CA,95219,1,BRU,38.0535084,-121.3723916
+6493,2502 South 48th Street,2502 South 48th Street,,Tacoma,WA,98409,1,BRU,47.213286,-122.4691927
+6492,10 Coliseum Avenue,10 Coliseum Avenue,,Nashua,NH,03063,1,BRU,42.7655447,-71.4963468
+5630,11340 South St,11340 South St,,Cerritos,CA,90701,1,TRU,33.8573297,-118.091624
+6456,21315 Us 19 North,21315 Us 19 North,,Clearwater,FL,33765,1,BRU,27.966218,-82.7288134
+5649,39855 Alta Murrieta Dr,39855 Alta Murrieta Dr,,Murrieta,CA,92562,1,TRU,33.5601272,-117.1798194
+5521,3575 Maple Avenue Colony Square Mall,3575 Maple Avenue,Colony Square Mall,Zanesville,OH,43701,1,TRU,39.9876199,-82.0270863
+5632,11136 Jefferson Blvd,11136 Jefferson Blvd,,Culver City,CA,90230,1,TRU,33.9959548,-118.3936171
+7830,11500 Financial Ctr Pkw,11500 Financial Ctr Pkw,,Little Rock,AR,72211,1,TRU,34.7483356,-92.4022921
+5640,4525 North Oracle Road,4525 North Oracle Road,,Tucson,AZ,85705,1,TRU,32.2885895,-110.9798973
+7833,4166 N. College Ave,4166 N. College Ave,,Fayetteville,AR,72701,1,TRU,36.1268456,-94.1426794
+7834,560 Ed Noble Parkway,560 Ed Noble Parkway,,Norman,OK,73072,1,TRU,35.211623,-97.4864256
+5644,245 E. Bell Road,245 E. Bell Road,,Phoenix,AZ,85022,1,TRU,33.637883,-112.071805
+8271,1150 El Camino Real Tanforan Park Center,1150 El Camino Real,Tanforan Park Center,San Bruno,CA,94066,1,TRU,37.6360069,-122.4174753
+5646,5355 East Broadway Blvd,5355 East Broadway Blvd,,Tucson,AZ,85711,1,TRU,32.2226061,-110.877255
+6341,17 Clifton Country Rd,17 Clifton Country Rd,,Clifton Park,NY,12065,1,TRU,42.8609109,-73.7836755
+6343,3035 Route 35 North Hazlet Plaza,3035 Route 35 North,Hazlet Plaza,Hazlet,NJ,07730,1,TRU,40.4200492,-74.1791277
+6342,600 Trotter Way,600 Trotter Way,,Freehold,NJ,07728,1,TRU,40.2551975,-74.2918494
+6344,7 Wayne Hills Mall,7 Wayne Hills Mall,,Wayne,NJ,07470,1,TRU,40.960991,-74.2396667
+6347,7 City Place,7 City Place,,White Plains,NY,10601,1,TRU,41.032681,-73.76553
+6335,Rockaway Ave,Rockaway Ave,,Rockaway,NJ,07866,1,TRU,40.9036001,-74.5523644
+6336,350 Bay Chester Ave Bay Plaza,350 Bay Chester Ave,Bay Plaza,Bronx,NY,10475,1,TRU,40.8685311,-73.8289299
+6486,3321 Tittabawassee Rd,3321 Tittabawassee Rd,,Saginaw,MI,48604,1,BRU,43.477384,-83.981775
+6029,14041 Aldrich Ave.,14041 Aldrich Ave.,,Burnsville,MN,55337,1,TRU,44.7492695,-93.2859465
+6337,88 Dunning Rd.,88 Dunning Rd.,,Middletown,NY,10940,1,TRU,41.4528433,-74.3742914
+6020,404 W. Army Trail Road,404 W. Army Trail Road,,Bloomingdale,IL,60108,1,TRU,41.9383595,-88.1154498
+6021,5001 Lincoln Highway,5001 Lincoln Highway,,Matteson,IL,60443-1630,1,TRU,41.5051851,-87.7365231
+6022,826 S. Randall Road,826 S. Randall Road,,Algonquin,IL,60102,1,TRU,42.1590385,-88.3396097
+6023,45 Orland Square Drive,45 Orland Square Drive,,Orland Park,IL,60462-3206,1,TRU,41.616618,-87.8522679
+6025,2324 Sagamore Pkwy S.,2324 Sagamore Pkwy S.,,Lafayette,IN,47905,1,TRU,40.3929413,-86.8554413
+6026,1610 Deerfield Road,1610 Deerfield Road,,Highland Park,IL,60035,1,TRU,42.1757662,-87.8214792
+6331,463 South Rd,463 South Rd,,Poughkeepsie,NY,12601,1,TRU,41.6650569,-73.9279214
+5181,350 84th Street Sw Tanger Grand Rapids,350 84th Street Sw,Tanger Grand Rapids,Byron Center,MI,49315,1,TRU,42.8087348,-85.6721633
+7506,366 Cambridge Street,366 Cambridge Street,,Woburn,MA,01801,1,TRU,42.4617867,-71.1627729
+6519,221 Newnan Xing Byp,221 Newnan Xing Byp,,East Newnan,GA,30263,1,BRU,33.3913823,-84.7594079
+6392,1559 New Britain Ave,1559 New Britain Ave,,West Hartford,CT,06110,1,BRU,41.7190041,-72.7606667
+9291,2027 Park Street,2027 Park Street,,Syracuse,NY,13208,1,BRU,43.071489,-76.1673807
+9218,Rt 18 & Valley View Dri Beaver Valley,Rt 18 & Valley View Dri,Beaver Valley,Monaca,PA,15061,1,TRU,40.6703498,-80.3147363
+8009,1133 Valley River Drive,1133 Valley River Drive,,Eugene,OR,97401,1,TRU,44.0730285,-123.1052294
+8004,12305 N Starlight Ave,12305 N Starlight Ave,,Portland,OR,97217,1,TRU,45.614023,-122.6880471
+9213,3735 William Penn Hwy.,3735 William Penn Hwy.,,Monroeville,PA,15146,1,TRU,40.4361935,-79.7903319
+8006,10065 S. W. Cascade Blv,10065 S. W. Cascade Blv,,Tigard,OR,97223,1,TRU,45.4478782,-122.7851651
+8007,4214 Tacoma Mall Blvd,4214 Tacoma Mall Blvd,,Tacoma,WA,98409,1,TRU,47.2187419,-122.4646497
+9216,301 Oak Spring Road,301 Oak Spring Road,,Washington,PA,15301,1,TRU,40.184911,-80.2348488
+8002,17501 Southcenter Pkwy,17501 Southcenter Pkwy,,Tukwila,WA,98188,1,TRU,47.4461771,-122.2637723
+8003,18601 Alderwood Mall Bl,18601 Alderwood Mall Bl,,Lynnwood,WA,98037,1,TRU,47.8301254,-122.2677163
+6547,18550 W. Bluemound Rd.,18550 W. Bluemound Rd.,,Brookfield,WI,53045,1,BRU,43.0377722,-88.1423502
+6469,5890 S. Westnedge Ave,5890 S. Westnedge Ave,,Portage,MI,49024,1,BRU,42.2315535,-85.5910462
+6544,6420 W. Fullerton Suite A,6420 W. Fullerton,Suite A,Chicago,IL,60707,1,BRU,41.9252317,-87.7869439
+6543,5900 W. Saginaw Highway,5900 W. Saginaw Highway,,Lansing,MI,48917,1,BRU,42.7427972,-84.6335978
+5639,98-211 Pali Momi Street,98-211 Pali Momi Street,,Aiea,HI,96701,1,TRU,21.38286,-157.9377385
+6540,1189 Simi Town Ctr Way,1189 Simi Town Ctr Way,,Simi Valley,CA,93065,1,BRU,34.2858058,-118.7771503
+5634,7212 Edinger Ave,7212 Edinger Ave,,Huntington Beach,CA,92647,1,TRU,33.7290336,-118.0032878
+6461,1327 George Dieter Dr. Las Palmas Market Place,1327 George Dieter Dr.,Las Palmas Market Place,El Paso,TX,79936,1,BRU,31.7245258,-106.3044427
+5636,1411 S. Bradley Road,1411 S. Bradley Road,,Santa Maria,CA,93454,1,TRU,34.9353049,-120.4213285
+6463,530 Westminster Mall,530 Westminster Mall,,Westminster,CA,92683,1,BRU,33.749059,-118.015103
+6464,435 E. University Drive,435 E. University Drive,,Granger,IN,46530,1,BRU,41.719173,-86.1740056
+6465,7000 E. Mayo Blvd.,7000 E. Mayo Blvd.,,Phoenix,AZ,85054,1,BRU,33.6576228,-111.9282722
+6549,1400 Gateway Blvd.,1400 Gateway Blvd.,,Fairfield,CA,94533,1,BRU,38.263939,-122.054024
+6467,3300 Wilkes-barre Commo,3300 Wilkes-barre Commo,,Wilkes Barre,PA,18702,1,BRU,41.2405334,-75.8451712
+6334,451 Route 28,451 Route 28,,Raritan,NJ,08869,1,TRU,40.5762337,-74.6312368
+9514,8011 E. Kellogg Ave,8011 E. Kellogg Ave,,Wichita,KS,67207,1,TRU,37.6778346,-97.2432043
+9517,1211 East Army Post Rd.,1211 East Army Post Rd.,,Des Moines,IA,50315,1,TRU,41.525154,-93.5996723
+9516,6926 South Lindbergh,6926 South Lindbergh,,Saint Louis,MO,63129-4219,1,TRU,38.5089446,-90.334957
+6330,634 Ridgewood Ave,634 Ridgewood Ave,,Paramus,NJ,07652,1,TRU,40.9639227,-74.0761883
+9510,120 Commerce Lane,120 Commerce Lane,,Fairview Heights,IL,62208,1,TRU,38.5980406,-89.9881791
+6332,17 Bacicus Avenue,17 Bacicus Avenue,,Danbury,CT,06810,1,TRU,41.3757581,-73.4875708
+9512,1425 East Battlefield,1425 East Battlefield,,Springfield,MO,65804,1,TRU,37.160781,-93.2707695
+7749,5488 S. Padre Isld. Dr. La Palmera,5488 S. Padre Isld. Dr.,La Palmera,Corpus Christi,TX,78411,1,TRU,27.7115365,-97.3700334
+9519,201 Silver Spgs. Rd.,201 Silver Spgs. Rd.,,Cape Girardeau,MO,63701,1,TRU,37.3000492,-89.5660017
+9518,630 S. Rangeline Rd.,630 S. Rangeline Rd.,,Joplin,MO,64802-4112,1,TRU,37.0847849,-94.4798598
